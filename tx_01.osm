@@ -3349,7 +3349,6 @@
 <node id="-3347" lat="59.311831182" lon="18.114502311" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Henriksdal"/></node>
 <node id="-3348" lat="59.31327063" lon="18.074481121" visible="true"><tag k="lantmateriet:kkod" v="5"/><tag k="place" v="village"/><tag k="name" v="S&#246;dermalm"/></node>
 <node id="-3349" lat="59.316673641" lon="18.122472336" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Finnboda"/></node>
-<node id="-3350" lat="59.319793461" lon="18.114673349" visible="true"><tag k="lantmateriet:kkod" v="14"/><tag k="place" v="locality"/><tag k="name" v="Valdemarsudde"/></node>
 <node id="-3351" lat="59.328932808" lon="18.118725602" visible="true"><tag k="lantmateriet:kkod" v="14"/><tag k="place" v="locality"/><tag k="name" v="Rosendal"/></node>
 <node id="-3352" lat="59.276240027" lon="18.070048904" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Svedmyra"/></node>
 <node id="-3353" lat="59.281448434" lon="18.074837628" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Gamla Enskede"/></node>
