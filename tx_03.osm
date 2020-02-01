@@ -5751,7 +5751,7 @@
 <node id="-5749" lat="59.778413363" lon="18.077252017" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;ngby"/></node>
 <node id="-5750" lat="59.784973832" lon="18.080103173" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hamre"/></node>
 <node id="-5751" lat="59.78017262" lon="18.082536993" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kullers&#228;ttra"/></node>
-<node id="-5752" lat="59.786841823" lon="18.084754972" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fredriksborg"/></node>
+<node id="-5752" lat="59.786841823" lon="18.084754972" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fredriksberg"/></node>
 <node id="-5753" lat="59.774864606" lon="18.088301123" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fredrikslund"/></node>
 <node id="-5754" lat="59.791244904" lon="18.091729188" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;sterdal"/></node>
 <node id="-5755" lat="59.778607585" lon="18.091864586" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Jansberg"/></node>

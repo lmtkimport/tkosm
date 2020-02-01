@@ -3610,7 +3610,7 @@
 <node id="-3608" lat="62.709515094" lon="14.172652769" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Abborrbodarna"/></node>
 <node id="-3609" lat="62.011129104" lon="14.615916739" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nonsbergsvallen"/></node>
 <node id="-3610" lat="63.120746945" lon="15.234872208" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N Lagmanslandet"/></node>
-<node id="-3611" lat="63.024679549" lon="15.982050889" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;ster-"/></node>
+<node id="-3611" lat="63.024679549" lon="15.982050889" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;ster-&#214;vsj&#246;"/></node>
 <node id="-3612" lat="63.426453768" lon="14.303246844" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gammalbodvallen"/></node>
 <node id="-3613" lat="63.232313055" lon="13.704879833" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Magnus-Ersvallen"/></node>
 <node id="-3614" lat="63.072643536" lon="15.526321506" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214; Fisksj&#246;landet"/></node>
@@ -3623,7 +3623,6 @@
 <node id="-3621" lat="62.017542799" lon="13.631374505" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nedre Morvallen"/></node>
 <node id="-3622" lat="63.742680868" lon="15.721505509" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kommunstugan"/></node>
 <node id="-3623" lat="61.691031636" lon="14.404799727" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N&#228;cktj&#228;rnstugan"/></node>
-<node id="-3624" lat="63.024248781" lon="15.982118112" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;vsj&#246;"/></node>
 <node id="-3625" lat="63.114813558" lon="16.380203566" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Gisselg&#229;rd"/></node>
 <node id="-3626" lat="62.915038527" lon="16.214365491" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Flaskstenstorget"/></node>
 <node id="-3627" lat="61.950897749" lon="13.768593295" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bl&#228;djen&#228;set"/></node>

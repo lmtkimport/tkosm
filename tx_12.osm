@@ -8304,7 +8304,6 @@
 <node id="-8302" lat="55.52214014" lon="13.458546463" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. N&#228;llevad"/></node>
 <node id="-8303" lat="55.936162359" lon="14.183260973" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Klemmedshus"/></node>
 <node id="-8304" lat="55.501528976" lon="13.306748622" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="N Lindved"/></node>
-<node id="-8305" lat="55.757861818" lon="14.113928788" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Drakam&#246;llans naturres."/></node>
 <node id="-8306" lat="56.248367576" lon="14.223177342" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Strandhem"/></node>
 <node id="-8307" lat="56.299650501" lon="13.393426312" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N Nybygget"/></node>
 <node id="-8308" lat="55.456900851" lon="13.807741278" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Folkestorpsg."/></node>

@@ -1514,7 +1514,7 @@
 <node id="-1512" lat="59.627940297" lon="16.539952715" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Skallberget"/></node>
 <node id="-1513" lat="59.648453044" lon="16.54123624" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;nsta Gryta"/></node>
 <node id="-1514" lat="59.632838083" lon="16.5474421" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Nordanby"/></node>
-<node id="-1515" lat="59.63214922" lon="16.558760935" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nordanby"/></node>
+<node id="-1515" lat="59.63214922" lon="16.558760935" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nordanby g&#228;rde"/></node>
 <node id="-1516" lat="59.644313331" lon="16.565262952" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Tunbytorp"/></node>
 <node id="-1517" lat="59.639542758" lon="16.573558729" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Stenby"/></node>
 <node id="-1518" lat="59.626636224" lon="16.594042907" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Malmaberg"/></node>
@@ -3947,7 +3947,6 @@
 <node id="-3945" lat="59.54803083" lon="16.55735548" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Fuller&#246; strand"/></node>
 <node id="-3946" lat="59.402929138" lon="16.253850033" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;ster Ekeby"/></node>
 <node id="-3947" lat="60.052662978" lon="15.827657689" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Malmk&#228;rra"/></node>
-<node id="-3948" lat="59.631932556" lon="16.558701001" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="g&#228;rde"/></node>
 <node id="-3949" lat="60.0653672" lon="16.369439392" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Slaggvreten"/></node>
 <node id="-3950" lat="59.510791751" lon="15.968507524" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Nibbles backe"/></node>
 <node id="-3951" lat="59.800777146" lon="16.469805066" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. B&#228;ckarna"/></node>

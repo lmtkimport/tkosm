@@ -4052,7 +4052,7 @@
 <node id="-4050" lat="62.427212752" lon="16.220133197" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kvarnmyran"/></node>
 <node id="-4051" lat="63.566129111" lon="16.638334356" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S&#246;r-Imn&#228;s"/></node>
 <node id="-4052" lat="63.355067927" lon="18.987546219" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Smedsbyf&#228;bodarna"/></node>
-<node id="-4053" lat="62.395651514" lon="17.201956836" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="V&#228;ster-"/></node>
+<node id="-4053" lat="62.395651514" lon="17.201956836" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="V&#228;sterkolsta"/></node>
 <node id="-4054" lat="62.549402762" lon="17.737163786" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;svedjan"/></node>
 <node id="-4055" lat="62.513307779" lon="17.368140509" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="S Lundevallen"/></node>
 <node id="-4056" lat="62.711665344" lon="17.567657214" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Gussj&#246;noret"/></node>

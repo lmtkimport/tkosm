@@ -6497,8 +6497,7 @@
 <node id="-6497" lat="58.887076984" lon="17.834269238" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="V Oxn&#246;"/></node>
 <node id="-6498" lat="59.201026113" lon="17.332802744" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Ryssj&#246;n"/></node>
 <node id="-6499" lat="59.7431158" lon="18.136233514" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="V Rickeby"/></node>
-<node id="-6500" lat="60.118347252" lon="18.681934684" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="hagen-"/></node>
-<node id="-6501" lat="60.11858606" lon="18.681987501" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;spsk&#228;rs-"/></node>
+<node id="-6501" lat="60.11858606" lon="18.681987501" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;spsk&#228;rshagen"/></node>
 <node id="-6502" lat="59.84474755" lon="18.278424483" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S Varleda"/></node>
 <node id="-6503" lat="59.690917568" lon="18.10258651" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. G&#229;dersta"/></node>
 <node id="-6504" lat="59.07991988" lon="17.90786237" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#246;derby kvarn"/></node>
@@ -6728,8 +6727,6 @@
 <node id="-6728" lat="59.327270864" lon="18.014333784" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Marieberg"/></node>
 <node id="-6729" lat="59.080219854" lon="18.075232128" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Katrineberg"/></node>
 <node id="-6730" lat="59.734352445" lon="18.063698076" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Ullentuna"/></node>
-<node id="-6731" lat="59.349766339" lon="17.956794828" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ulvsunda"/></node>
-<node id="-6732" lat="59.34949354" lon="17.956996226" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="ind.omr."/></node>
 <node id="-6733" lat="59.673439603" lon="18.170523002" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Dalkarlshagen"/></node>
 <node id="-6734" lat="59.752771318" lon="18.581101953" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Sundsta"/></node>
 <node id="-6735" lat="59.789807811" lon="18.403706454" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Brandsbyle"/></node>

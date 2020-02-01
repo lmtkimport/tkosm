@@ -7421,8 +7421,7 @@
 <node id="-7421" lat="59.113066254" lon="15.087325431" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="V &#197;by"/></node>
 <node id="-7422" lat="59.890115052" lon="14.953932797" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Orrbacken"/></node>
 <node id="-7423" lat="59.597333247" lon="14.787219637" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. L&#246;vn&#228;s"/></node>
-<node id="-7424" lat="59.585480095" lon="14.528429666" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="b&#228;cken-"/></node>
-<node id="-7425" lat="59.585723156" lon="14.528833842" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kr&#246;ke-"/></node>
+<node id="-7425" lat="59.585723156" lon="14.528833842" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kr&#246;keb&#228;cken"/></node>
 <node id="-7426" lat="59.655718402" lon="15.250909935" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. F&#228;boda"/></node>
 <node id="-7427" lat="59.118746735" lon="14.371488066" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kungshag"/></node>
 <node id="-7428" lat="59.262248981" lon="14.502814029" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N B&#229;lfallet"/></node>

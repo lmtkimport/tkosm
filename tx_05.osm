@@ -11664,7 +11664,7 @@
 <node id="-11662" lat="58.301344654" lon="15.477941946" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Utterstorp"/></node>
 <node id="-11663" lat="58.652561653" lon="15.090877316" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N Skattlyckan"/></node>
 <node id="-11664" lat="58.132816486" lon="14.984705057" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hagalund"/></node>
-<node id="-11665" lat="58.322567347" lon="14.79375744" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St .Svaneg&#229;rden"/></node>
+<node id="-11665" lat="58.322567347" lon="14.79375744" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stora Svaneg&#229;rden"/></node>
 <node id="-11666" lat="57.941470904" lon="15.929152435" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. H&#228;rna"/></node>
 <node id="-11667" lat="58.267914689" lon="14.845177112" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. H&#228;sthagen"/></node>
 </osm>

@@ -208,17 +208,12 @@
 <node id="-206" lat="65.551665216" lon="20.733146194" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fj&#228;latr&#228;sk"/></node>
 <node id="-207" lat="66.081932882" lon="20.647986357" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="T&#228;llberg"/></node>
 <node id="-208" lat="66.05768578" lon="20.684354547" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kvarn&#229;dammen"/></node>
-<node id="-209" lat="66.081966787" lon="20.834508316" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Buodaj&#225;vrre"/></node>
 <node id="-210" lat="66.082136628" lon="20.834623198" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Bodtr&#228;sk"/></node>
-<node id="-211" lat="66.070145839" lon="20.870324299" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Tjieg&#191;alisj&#225;vrre"/></node>
 <node id="-212" lat="66.070574918" lon="20.870427619" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Djuptr&#228;sk"/></node>
 <node id="-213" lat="66.054287763" lon="20.55914658" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="B&#228;verudden"/></node>
 <node id="-214" lat="66.055229303" lon="20.613756651" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Myrberg"/></node>
-<node id="-215" lat="65.999055725" lon="20.700136715" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="D&#225;bmukj&#225;vrre"/></node>
 <node id="-216" lat="65.99934142" lon="20.700220675" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="R&#246;dingstr&#228;sk"/></node>
-<node id="-217" lat="65.995782635" lon="20.473566719" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="B&#225;rahta"/></node>
 <node id="-218" lat="65.996463626" lon="20.473023457" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Haptr&#228;sk"/></node>
-<node id="-219" lat="66.0175776" lon="20.45568563" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Vuollej&#225;vrre"/></node>
 <node id="-220" lat="66.017954218" lon="20.455756756" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Vitbergstr&#228;sk"/></node>
 <node id="-221" lat="65.950239482" lon="20.672811742" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kallk&#228;llmyrkojan"/></node>
 <node id="-222" lat="65.957719213" lon="20.5077319" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#229;ngtr&#228;sk"/></node>
@@ -390,7 +385,6 @@
 <node id="-388" lat="65.750987752" lon="20.181256467" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stor-Laver"/></node>
 <node id="-389" lat="65.724605056" lon="19.893394802" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Njallejaur"/></node>
 <node id="-390" lat="65.744904957" lon="19.916808125" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lill-Njallejaur"/></node>
-<node id="-391" lat="65.74445903" lon="19.917808781" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uhtsa Njallaj&#225;vrrie"/></node>
 <node id="-392" lat="65.751156246" lon="20.074997541" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Br&#228;nn&#228;s"/></node>
 <node id="-393" lat="65.712841149" lon="19.948783403" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Holmfors"/></node>
 <node id="-394" lat="65.675426783" lon="20.130607619" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#197;kroken"/></node>
@@ -441,7 +435,6 @@
 <node id="-439" lat="65.490131055" lon="19.772055101" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Vikbacken"/></node>
 <node id="-440" lat="65.489843699" lon="19.802445145" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Je&#228;rbmure"/></node>
 <node id="-441" lat="65.496897308" lon="19.773076344" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hemmyran"/></node>
-<node id="-442" lat="65.411824965" lon="19.758389683" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="R&#225;jvvuoj&#225;vrrie"/></node>
 <node id="-443" lat="65.412168173" lon="19.758705197" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Rajvotr&#228;sk"/></node>
 <node id="-444" lat="65.501678175" lon="19.736261069" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tallskatan"/></node>
 <node id="-445" lat="65.395666598" lon="19.68298913" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skogshult"/></node>
@@ -506,7 +499,6 @@
 <node id="-504" lat="65.836571918" lon="19.555554624" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sallejaurekojan"/></node>
 <node id="-505" lat="65.831670782" lon="19.790724779" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Abborrtr&#228;sk"/></node>
 <node id="-506" lat="65.853688238" lon="19.459943096" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Abmorhed"/></node>
-<node id="-507" lat="65.85341218" lon="19.459920144" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#193;bmuoguolbban"/></node>
 <node id="-508" lat="65.857686503" lon="19.465318167" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="R&#229;n&#228;s"/></node>
 <node id="-509" lat="65.8650148" lon="19.467803304" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Abborrtj&#228;rnkullen"/></node>
 <node id="-510" lat="65.817755255" lon="19.539507985" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bergtr&#228;sk"/></node>
@@ -520,7 +512,6 @@
 <node id="-518" lat="65.804517811" lon="19.819844206" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Jillie G&#229;bddie"/></node>
 <node id="-519" lat="65.832077746" lon="19.888066441" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Ljustr&#228;sk"/></node>
 <node id="-520" lat="65.818371897" lon="19.922929645" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Norrliden"/></node>
-<node id="-521" lat="65.807309155" lon="19.559982163" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;renesj&#225;vrrie"/></node>
 <node id="-522" lat="65.807564957" lon="19.560039817" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bergtr&#228;sk"/></node>
 <node id="-523" lat="65.797008633" lon="19.584437932" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="L&#229;ngn&#228;s"/></node>
 <node id="-524" lat="65.79659508" lon="19.586541724" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lu&#246;bnienju&#246;nies"/></node>
@@ -531,16 +522,13 @@
 <node id="-529" lat="65.770384845" lon="19.392983095" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sandviken"/></node>
 <node id="-530" lat="65.789244076" lon="19.382607136" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Stormyrheden"/></node>
 <node id="-531" lat="65.806795513" lon="19.379507642" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stormyrtorp"/></node>
-<node id="-532" lat="65.815384875" lon="19.4084999" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sle&#191;gge"/></node>
 <node id="-533" lat="65.815664558" lon="19.408547859" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sleng"/></node>
 <node id="-534" lat="65.76167791" lon="19.544412104" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Br&#228;nnheden"/></node>
 <node id="-535" lat="65.770108519" lon="19.620657241" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Tallsund"/></node>
-<node id="-536" lat="65.769987884" lon="19.620807761" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Biets&#225;tje"/></node>
 <node id="-537" lat="65.771526276" lon="19.631440966" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;stervik"/></node>
 <node id="-538" lat="65.746502037" lon="19.41142296" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#193;vtjakj&#225;vrrie"/></node>
 <node id="-539" lat="65.746927074" lon="19.411597263" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Auktsjaur"/></node>
 <node id="-540" lat="65.752509891" lon="19.431028233" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Vikvallen"/></node>
-<node id="-541" lat="65.724222065" lon="19.893278481" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Njallaj&#225;vrrie"/></node>
 <node id="-542" lat="65.743045327" lon="19.825589447" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Vistiege"/></node>
 <node id="-543" lat="65.743336934" lon="19.824047847" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Vist&#229;sen"/></node>
 <node id="-544" lat="65.753239702" lon="19.788645809" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="R&#228;ttsel"/></node>
@@ -608,7 +596,6 @@
 <node id="-606" lat="65.667544353" lon="19.082904572" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sullan&#229;jvesuoluoj"/></node>
 <node id="-607" lat="65.667674041" lon="19.083280908" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Storholmen"/></node>
 <node id="-608" lat="65.663564483" lon="19.109981021" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Glottje"/></node>
-<node id="-609" lat="65.663261126" lon="19.110564606" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gl&#229;httj&#225;"/></node>
 <node id="-610" lat="65.654605621" lon="19.126525463" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rkliden"/></node>
 <node id="-611" lat="65.666929418" lon="19.319468202" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ravenjaur"/></node>
 <node id="-612" lat="65.649914959" lon="19.211253871" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#193;hk&#225;v&#225;rrie"/></node>
@@ -626,7 +613,6 @@
 <node id="-624" lat="65.583769025" lon="19.364224952" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Fj&#228;llbon&#228;s"/></node>
 <node id="-625" lat="65.587732499" lon="19.39385045" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Granbo"/></node>
 <node id="-626" lat="65.60063844" lon="19.144592803" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gamla Pr&#228;stg&#229;rden"/></node>
-<node id="-627" lat="65.600333624" lon="19.146869434" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="D&#225;lvvadis"/></node>
 <node id="-628" lat="65.591573808" lon="19.146427302" visible="true"><tag k="lantmateriet:kkod" v="7"/><tag k="place" v="town"/><tag k="name" v="Arvidsjaur"/></node>
 <node id="-629" lat="65.590918542" lon="19.147713057" visible="true"><tag k="lantmateriet:kkod" v="6"/><tag k="place" v="town"/><tag k="name" v="&#193;rviesj&#225;vrrie"/></node>
 <node id="-630" lat="65.583677589" lon="19.168414162" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Lillberget"/></node>
@@ -2563,7 +2549,6 @@
 <node id="-2562" lat="65.377399515" lon="19.814164829" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Granhult"/></node>
 <node id="-2563" lat="65.37971094" lon="19.819224866" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Giesiekeje&#228;ggie"/></node>
 <node id="-2564" lat="65.380052803" lon="19.819783612" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gesikmyran"/></node>
-<node id="-2565" lat="65.333825145" lon="19.81425289" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Njukttjaj&#225;vrrie"/></node>
 <node id="-2566" lat="65.333017345" lon="19.721064325" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skogtr&#228;sk"/></node>
 <node id="-2567" lat="65.27510766" lon="19.683674548" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Svedjan"/></node>
 <node id="-2568" lat="65.278493472" lon="19.711143137" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="H&#246;gbr&#228;nna"/></node>
@@ -2571,7 +2556,6 @@
 <node id="-2570" lat="65.260760652" lon="19.585305156" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stormyrliden"/></node>
 <node id="-2571" lat="65.321713377" lon="19.604403684" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lapptr&#228;skheden"/></node>
 <node id="-2572" lat="65.292165117" lon="19.618273498" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Mor&#228;ng"/></node>
-<node id="-2573" lat="65.290716741" lon="19.622185755" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Duog&#191;asj&#225;vrrie"/></node>
 <node id="-2574" lat="65.264732729" lon="19.639186872" visible="true"><tag k="lantmateriet:kkod" v="5"/><tag k="place" v="village"/><tag k="name" v="Midtj&#225;"/></node>
 <node id="-2575" lat="65.264826859" lon="19.646990029" visible="true"><tag k="lantmateriet:kkod" v="5"/><tag k="place" v="village"/><tag k="name" v="Glommerstr&#228;sk"/></node>
 <node id="-2576" lat="65.338994826" lon="19.618494625" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lillberget"/></node>
@@ -2663,7 +2647,6 @@
 <node id="-2662" lat="65.375466639" lon="19.388931412" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Holmen"/></node>
 <node id="-2663" lat="65.35043145" lon="19.43111289" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ge&#228;dtsavu&#246;llie"/></node>
 <node id="-2664" lat="65.344364185" lon="19.434136444" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Storsundet"/></node>
-<node id="-2665" lat="65.350263295" lon="19.448717497" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="R&#225;vanj&#225;vrrie"/></node>
 <node id="-2666" lat="65.346324932" lon="19.476057388" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Myrtr&#228;sk"/></node>
 <node id="-2667" lat="65.322385067" lon="19.519645132" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Katrineberg"/></node>
 <node id="-2668" lat="65.314871434" lon="19.543448039" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sn&#246;dbr&#228;nna"/></node>
@@ -2673,7 +2656,6 @@
 <node id="-2672" lat="65.327123034" lon="19.395758554" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lill-Sandberget"/></node>
 <node id="-2673" lat="65.250126694" lon="19.311063875" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lidmyrliden"/></node>
 <node id="-2674" lat="65.211190528" lon="19.490750358" visible="true"><tag k="lantmateriet:kkod" v="4"/><tag k="place" v="hamlet"/><tag k="name" v="J&#228;rvtr&#228;sk"/></node>
-<node id="-2675" lat="65.211046127" lon="19.490979991" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Jiervasj&#225;vrrie"/></node>
 <node id="-2676" lat="65.210313123" lon="19.514377466" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="L&#229;ngudden"/></node>
 <node id="-2677" lat="65.155466051" lon="19.443269758" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Gallejaur"/></node>
 <node id="-2678" lat="65.313426944" lon="20.305777125" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Holmfors"/></node>
@@ -2751,7 +2733,7 @@
 <node id="-2750" lat="66.391175818" lon="22.820636107" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="N Nybyn"/></node>
 <node id="-2751" lat="66.023779494" lon="21.632198396" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;vre Junkotr&#228;skg&#229;rden"/></node>
 <node id="-2752" lat="65.788226703" lon="20.564167135" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;staheden"/></node>
-<node id="-2753" lat="65.582723311" lon="21.673817447" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Alviks"/></node>
+<node id="-2753" lat="65.582723311" lon="21.673817447" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Alviks f&#228;bodar"/></node>
 <node id="-2754" lat="65.304483272" lon="21.2451656" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="V Liden"/></node>
 <node id="-2755" lat="66.153590774" lon="23.48058925" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S Pallakka"/></node>
 <node id="-2756" lat="65.540650207" lon="21.960033465" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="B&#228;ckmellanbodarna"/></node>
@@ -2791,7 +2773,6 @@
 <node id="-2790" lat="65.94548619" lon="22.878309386" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Salkostudden"/></node>
 <node id="-2791" lat="66.112130124" lon="21.772308586" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Br&#228;ndheden"/></node>
 <node id="-2792" lat="66.119466243" lon="21.703762822" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Grundsundudden"/></node>
-<node id="-2793" lat="65.582524752" lon="21.673774649" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="f&#228;bodar"/></node>
 <node id="-2794" lat="65.994800911" lon="22.00987502" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tolvmansg&#229;rden"/></node>
 <node id="-2795" lat="66.571674135" lon="22.759751872" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#214; Lillselet"/></node>
 <node id="-2796" lat="65.799843501" lon="21.683857599" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Bodsvedjan"/></node>

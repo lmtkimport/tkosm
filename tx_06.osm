@@ -9238,8 +9238,7 @@
 <node id="-9236" lat="57.953648296" lon="13.878850921" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="St. Br&#229;ared"/></node>
 <node id="-9237" lat="57.522227501" lon="14.95967905" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S Sonarp"/></node>
 <node id="-9238" lat="57.392749409" lon="13.978939658" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hultakvarnen"/></node>
-<node id="-9239" lat="56.979639953" lon="14.284015898" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="pr&#228;stg."/></node>
-<node id="-9240" lat="56.979997233" lon="14.283985069" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rydaholms"/></node>
+<node id="-9240" lat="56.979997233" lon="14.283985069" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rydaholms pr&#228;stg&#229;rd"/></node>
 <node id="-9241" lat="57.182035616" lon="13.181970988" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N Krycketorpet"/></node>
 <node id="-9242" lat="57.60581078" lon="14.514534305" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S Hiarum"/></node>
 <node id="-9243" lat="57.249097835" lon="14.034346157" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Jonsingsg&#229;rden"/></node>
