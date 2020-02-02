@@ -3191,7 +3191,6 @@
 <node id="-3189" lat="59.146270504" lon="15.887528689" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="R&#246;rvik"/></node>
 <node id="-3190" lat="59.146409989" lon="15.945346933" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stavb&#228;cken"/></node>
 <node id="-3191" lat="59.147724707" lon="15.900847012" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fiskarhem"/></node>
-<node id="-3192" lat="59.151774483" lon="15.899128099" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="R&#246;rviks fritidsomr&#229;de"/></node>
 <node id="-3193" lat="59.151724799" lon="15.916743392" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ektorp"/></node>
 <node id="-3194" lat="59.152838881" lon="15.925799661" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hj&#228;lmarsvik"/></node>
 <node id="-3195" lat="59.152572088" lon="15.965329628" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kalkugnstorp"/></node>
@@ -3654,7 +3653,6 @@
 <node id="-3652" lat="58.939898417" lon="17.487760164" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="V&#228;sby"/></node>
 <node id="-3653" lat="58.944692512" lon="17.508408329" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#197;by"/></node>
 <node id="-3654" lat="58.94814854" lon="17.499577762" visible="true"><tag k="lantmateriet:kkod" v="7"/><tag k="place" v="town"/><tag k="name" v="Vagnh&#228;rad"/></node>
-<node id="-3655" lat="58.919239933" lon="17.552087205" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#197;da fritidsomr&#229;de"/></node>
 <node id="-3656" lat="58.920413057" lon="17.536491652" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kihammar"/></node>
 <node id="-3657" lat="58.922431437" lon="17.518998338" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hunga"/></node>
 <node id="-3658" lat="58.927193185" lon="17.534705087" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="&#197;da"/></node>
@@ -8139,7 +8137,6 @@
 <node id="-8137" lat="59.154141612" lon="16.336496101" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Skarnhult"/></node>
 <node id="-8138" lat="58.915576321" lon="17.513548689" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Jordbrostugan"/></node>
 <node id="-8139" lat="59.32277361" lon="16.428449313" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hyndevadstrand"/></node>
-<node id="-8140" lat="59.175941695" lon="15.929465321" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Hj&#228;lms&#228;tters fritidsomr&#229;de"/></node>
 <node id="-8141" lat="58.833688451" lon="17.254183824" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Sulsta"/></node>
 <node id="-8142" lat="59.165523112" lon="16.731778545" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Mellang&#229;rden"/></node>
 <node id="-8143" lat="58.642908851" lon="16.981158454" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stora Torskhult"/></node>
@@ -8175,7 +8172,6 @@
 <node id="-8173" lat="59.456175315" lon="16.889491076" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S Bj&#246;rka"/></node>
 <node id="-8174" lat="58.645887595" lon="16.94537239" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="J&#228;rps&#228;tterstugan"/></node>
 <node id="-8175" lat="59.233947283" lon="16.534859725" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Forskilen"/></node>
-<node id="-8176" lat="59.226975374" lon="16.081339094" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Uddens fritidsomr&#229;de"/></node>
 <node id="-8177" lat="58.775325775" lon="16.578484462" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. H&#228;llen"/></node>
 <node id="-8178" lat="58.703084069" lon="16.804049278" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Hultersta"/></node>
 <node id="-8179" lat="59.342836998" lon="16.399502488" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Hattran"/></node>

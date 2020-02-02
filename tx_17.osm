@@ -9688,7 +9688,6 @@
 <node id="-9686" lat="58.943827965" lon="13.12595314" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stor&#228;ngen"/></node>
 <node id="-9687" lat="58.932260407" lon="13.128064886" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#246;ten"/></node>
 <node id="-9688" lat="58.918214845" lon="13.194428293" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="K&#228;llestad"/></node>
-<node id="-9689" lat="59.220851678" lon="13.125834584" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="M&#228;ssviks fritidsomr&#229;de"/></node>
 <node id="-9690" lat="59.216088587" lon="13.131358426" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kos"/></node>
 <node id="-9691" lat="59.274791134" lon="13.137948981" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Vass&#228;ngen"/></node>
 <node id="-9692" lat="59.271643756" lon="13.138195311" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Vassen"/></node>

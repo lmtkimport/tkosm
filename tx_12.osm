@@ -8205,7 +8205,6 @@
 <node id="-8203" lat="56.042254347" lon="12.844904875" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St. Rycketofta"/></node>
 <node id="-8204" lat="55.963716757" lon="13.14913556" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. B&#246;ckershus"/></node>
 <node id="-8205" lat="56.198414405" lon="13.923372321" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Kungsg&#229;rden"/></node>
-<node id="-8206" lat="55.61666515" lon="12.968767403" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="V&#228;stra hamnomr&#229;det"/></node>
 <node id="-8207" lat="56.142257017" lon="13.995742938" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St. Sl&#228;tteke"/></node>
 <node id="-8208" lat="55.829746109" lon="14.132223858" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Segesholm"/></node>
 <node id="-8209" lat="55.607275693" lon="13.176909336" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St. M&#246;lleberga"/></node>

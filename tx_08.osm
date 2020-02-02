@@ -8100,7 +8100,6 @@
 <node id="-8098" lat="57.308147664" lon="17.018402712" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skr&#229;ph&#228;gnen"/></node>
 <node id="-8099" lat="56.798306944" lon="16.28918868" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St. V&#229;ngersl&#228;t"/></node>
 <node id="-8100" lat="57.208183079" lon="15.571465488" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Sk&#246;gle"/></node>
-<node id="-8101" lat="56.646155586" lon="16.578093685" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Tveta fritidsomr&#229;de"/></node>
 <node id="-8102" lat="56.401944781" lon="15.802032574" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="St. Hyltan"/></node>
 <node id="-8103" lat="57.713172445" lon="15.80735804" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="N F&#229;gelhem"/></node>
 <node id="-8104" lat="57.684940409" lon="15.816984188" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hjortb&#228;cken"/></node>

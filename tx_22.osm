@@ -3982,7 +3982,6 @@
 <node id="-3980" lat="62.632984438" lon="17.952387571" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="N Br&#228;nnan"/></node>
 <node id="-3981" lat="62.673428625" lon="17.933408458" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Finsviks-"/></node>
 <node id="-3982" lat="63.530523582" lon="18.775901446" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skaltj&#228;rnsvedjan"/></node>
-<node id="-3983" lat="62.643627104" lon="16.338462314" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hol&#228;nningskogens naturreservat"/></node>
 <node id="-3984" lat="63.369415188" lon="19.085763735" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Domb&#228;cksmark"/></node>
 <node id="-3985" lat="62.247112014" lon="17.474499924" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bergabodarna"/></node>
 <node id="-3986" lat="63.476185487" lon="18.38262725" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bodg&#228;rdsbodarna"/></node>

@@ -6583,7 +6583,6 @@
 <node id="-6585" lat="59.24433526" lon="18.392389898" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St. &#196;gn&#246;"/></node>
 <node id="-6586" lat="59.057542679" lon="17.647428593" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. D&#229;der&#246;"/></node>
 <node id="-6587" lat="59.32590797" lon="17.696151787" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekenslund"/></node>
-<node id="-6588" lat="58.960535511" lon="17.812680168" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Lyngsta fritidsomr&#229;de"/></node>
 <node id="-6589" lat="60.060396417" lon="18.830077042" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="N Fj&#228;llboholmarna"/></node>
 <node id="-6590" lat="59.848298891" lon="19.015142099" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;sterg."/></node>
 <node id="-6591" lat="59.50217853" lon="17.548837269" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St. Ekeby"/></node>
