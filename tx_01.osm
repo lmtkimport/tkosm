@@ -2761,7 +2761,6 @@
 <node id="-2759" lat="59.464369036" lon="17.868387912" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="F&#228;boda"/></node>
 <node id="-2760" lat="59.424023222" lon="18.065975482" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Lah&#228;ll"/></node>
 <node id="-2761" lat="59.429791545" lon="18.043887897" visible="true"><tag k="lantmateriet:kkod" v="5"/><tag k="place" v="village"/><tag k="name" v="Enebyberg"/></node>
-<node id="-2762" lat="59.440325504" lon="18.043843239" visible="true"><tag k="lantmateriet:kkod" v="8"/><tag k="place" v="city"/><tag k="name" v="T&#228;by"/></node>
 <node id="-2763" lat="59.444744703" lon="18.046392245" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ella g&#229;rd"/></node>
 <node id="-2764" lat="59.452539934" lon="18.040576301" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Ella"/></node>
 <node id="-2765" lat="59.453930616" lon="18.062062776" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Ensta"/></node>
@@ -3151,7 +3150,6 @@
 <node id="-3149" lat="59.494668488" lon="18.088621144" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandborg"/></node>
 <node id="-3150" lat="59.497513413" lon="18.043001494" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Nyg&#229;rd"/></node>
 <node id="-3151" lat="59.502909125" lon="18.059273399" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Runborg"/></node>
-<node id="-3152" lat="59.502709153" lon="18.070847262" visible="true"><tag k="lantmateriet:kkod" v="6"/><tag k="place" v="town"/><tag k="name" v="T&#228;by"/></node>
 <node id="-3153" lat="59.503847069" lon="18.076169748" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Byle"/></node>
 <node id="-3154" lat="59.50676862" lon="18.045787097" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;berg"/></node>
 <node id="-3155" lat="59.508125174" lon="18.05725401" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Uthamra"/></node>
