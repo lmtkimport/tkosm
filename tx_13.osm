@@ -231,7 +231,6 @@
 <node id="-229" lat="57.455357401" lon="12.325852444" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Oletr&#228;"/></node>
 <node id="-230" lat="57.450071201" lon="12.3321233" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="M&#246;sten"/></node>
 <node id="-231" lat="57.450830781" lon="12.350719332" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hultet"/></node>
-<node id="-232" lat="57.458400569" lon="12.186601616" visible="true"><tag k="lantmateriet:kkod" v="6"/><tag k="place" v="town"/><tag k="name" v="Fj&#228;r&#229;s"/></node>
 <node id="-233" lat="57.451728785" lon="12.189702865" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dj&#228;kneg&#229;rden"/></node>
 <node id="-234" lat="57.47903615" lon="12.240700159" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Fagared"/></node>
 <node id="-235" lat="57.4722452" lon="12.242496855" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ava"/></node>

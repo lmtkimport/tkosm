@@ -5386,7 +5386,6 @@
 <node id="-5384" lat="60.728913327" lon="16.819218379" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S&#228;ver&#228;nge"/></node>
 <node id="-5385" lat="60.667972062" lon="17.036070503" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="&#197;sbyggeby"/></node>
 <node id="-5386" lat="60.662259589" lon="17.046223071" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Olsbacka"/></node>
-<node id="-5387" lat="60.666129955" lon="17.053761953" visible="true"><tag k="lantmateriet:kkod" v="7"/><tag k="place" v="town"/><tag k="name" v="Valbo"/></node>
 <node id="-5388" lat="60.673890301" lon="17.076128057" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hagastr&#246;m"/></node>
 <node id="-5389" lat="60.67793898" lon="17.084564172" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Stenb&#228;ck"/></node>
 <node id="-5390" lat="60.679536825" lon="17.093918502" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Lexe"/></node>

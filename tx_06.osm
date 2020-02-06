@@ -4355,7 +4355,7 @@
 <node id="-4353" lat="57.833203642" lon="14.111190187" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skodsborg"/></node>
 <node id="-4354" lat="57.834842053" lon="14.133784452" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="M&#229;lskog"/></node>
 <node id="-4355" lat="57.836414721" lon="14.088589421" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Flaskebo"/></node>
-<node id="-4356" lat="57.837530417" lon="14.152785578" visible="true"><tag k="lantmateriet:kkod" v="6"/><tag k="place" v="town"/><tag k="name" v="Tr&#229;nghalla"/></node>
+<node id="-4356" lat="57.839540701" lon="14.150596895" visible="true"><tag k="lantmateriet:kkod" v="6"/><tag k="place" v="hamlet"/><tag k="name" v="Tr&#229;nghalla"/></node>
 <node id="-4357" lat="57.838042221" lon="14.113311124" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kolaryd"/></node>
 <node id="-4358" lat="57.838356877" lon="14.130002541" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rickarp"/></node>
 <node id="-4359" lat="57.8030341" lon="14.31436868" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Kikstorp"/></node>
