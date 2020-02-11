@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<osm version="0.6" generator="uvmogr2osm">
+<?xml version='1.0' encoding='UTF-8'?><osm version="0.6" generator="uvmogr2osm">
 <node id="-1" lat="58.804927544" lon="15.13428775" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="K&#228;mpelandet"/></node>
 <node id="-2" lat="58.715184972" lon="15.06510873" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Gr&#246;nstugan"/></node>
 <node id="-3" lat="58.71799038" lon="15.075300606" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Gr&#246;nberg"/></node>
@@ -79,7 +78,7 @@
 <node id="-77" lat="58.624832386" lon="14.96117429" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kn&#246;sen"/></node>
 <node id="-78" lat="58.626649912" lon="14.947743987" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="G&#229;sn&#228;s"/></node>
 <node id="-79" lat="58.626704642" lon="14.977314488" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#228;nsmanstorp"/></node>
-<node id="-80" lat="58.626976564" lon="14.927747375" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fiskartorpet"/></node>
+<node id="-80" lat="58.626976564" lon="14.927747375" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fiskartorpet"/></node>
 <node id="-81" lat="58.641489754" lon="14.957507416" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stenbacka"/></node>
 <node id="-82" lat="58.645341395" lon="14.942370036" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#197;sen"/></node>
 <node id="-83" lat="58.645696899" lon="14.954432099" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Friden"/></node>
@@ -271,7 +270,7 @@
 <node id="-269" lat="58.507627792" lon="14.988079756" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="H&#228;sslebytorp"/></node>
 <node id="-270" lat="58.505919119" lon="14.989291818" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Norra Kulla"/></node>
 <node id="-271" lat="58.534520107" lon="14.999599834" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="R&#229;ssn&#228;s"/></node>
-<node id="-272" lat="58.512413068" lon="15.000772367" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Sj&#246;hamra"/></node>
+<node id="-272" lat="58.512413068" lon="15.000772367" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Sj&#246;hamra"/></node>
 <node id="-273" lat="58.508542084" lon="15.002866025" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ekhamra"/></node>
 <node id="-274" lat="58.523756287" lon="15.007022226" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Dynudden"/></node>
 <node id="-275" lat="58.540919449" lon="15.008743422" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Agnesh&#246;g"/></node>
@@ -293,7 +292,7 @@
 <node id="-291" lat="58.61995124" lon="15.029422841" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uvatorp"/></node>
 <node id="-292" lat="58.611245099" lon="15.041636137" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brusetorpet"/></node>
 <node id="-293" lat="58.612384877" lon="15.044133332" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Golby"/></node>
-<node id="-294" lat="58.485551071" lon="14.934433191" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Medhamra"/></node>
+<node id="-294" lat="58.485551071" lon="14.934433191" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Medhamra"/></node>
 <node id="-295" lat="58.475796948" lon="14.954357708" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="B&#228;ck"/></node>
 <node id="-296" lat="58.489880835" lon="14.957547002" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Larsbo"/></node>
 <node id="-297" lat="58.499680569" lon="14.960932362" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sandby"/></node>
@@ -335,7 +334,7 @@
 <node id="-333" lat="58.570863265" lon="15.002802346" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hundsberg"/></node>
 <node id="-334" lat="58.620888084" lon="14.931562426" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sj&#246;k&#228;rret"/></node>
 <node id="-335" lat="58.625740788" lon="14.936529821" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#246;vdalen"/></node>
-<node id="-336" lat="58.627526322" lon="14.933134215" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="G&#229;svik"/></node>
+<node id="-336" lat="58.627526322" lon="14.933134215" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="G&#229;svik"/></node>
 <node id="-337" lat="58.62998253" lon="14.967744426" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skogsliden"/></node>
 <node id="-338" lat="58.631547542" lon="14.947438111" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#196;skeb&#228;ck"/></node>
 <node id="-339" lat="58.635081155" lon="14.958421621" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lundstorp"/></node>
@@ -383,7 +382,7 @@
 <node id="-381" lat="58.455639469" lon="14.97537549" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Askeg&#229;rden"/></node>
 <node id="-382" lat="58.457537868" lon="14.937795165" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ljungatorp"/></node>
 <node id="-383" lat="58.459852839" lon="14.942023093" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gubbetorp"/></node>
-<node id="-384" lat="58.463138009" lon="14.926145015" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Helenelund"/></node>
+<node id="-384" lat="58.463138009" lon="14.926145015" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Helenelund"/></node>
 <node id="-385" lat="58.46439249" lon="14.960080211" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Hageby"/></node>
 <node id="-386" lat="58.465637578" lon="14.950531307" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="H&#246;galund"/></node>
 <node id="-387" lat="58.425934419" lon="14.829331549" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gatug&#229;rden"/></node>
@@ -398,7 +397,7 @@
 <node id="-396" lat="58.43955225" lon="14.878303848" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Starby"/></node>
 <node id="-397" lat="58.445247544" lon="14.878789843" visible="true"><tag k="lantmateriet:kkod" v="7"/><tag k="place" v="town"/><tag k="name" v="Vadstena"/></node>
 <node id="-398" lat="58.430929158" lon="14.88713537" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="H&#228;sthagen"/></node>
-<node id="-399" lat="58.45103159" lon="14.889401201" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Vadstena kloster"/></node>
+<node id="-399" lat="58.45103159" lon="14.889401201" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Vadstena kloster"/></node>
 <node id="-400" lat="58.431617039" lon="14.893315076" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skogen"/></node>
 <node id="-401" lat="58.41991725" lon="14.897048094" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Adolfsn&#228;s"/></node>
 <node id="-402" lat="58.432502775" lon="14.900213701" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solhaga"/></node>
@@ -461,16 +460,16 @@
 <node id="-459" lat="58.431433702" lon="14.818174125" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stubbet"/></node>
 <node id="-460" lat="58.431504816" lon="14.783046822" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="S&#228;by"/></node>
 <node id="-461" lat="58.43380143" lon="14.797919594" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;rg&#229;rden"/></node>
-<node id="-462" lat="58.435651277" lon="14.776089968" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#228;bytorp"/></node>
+<node id="-462" lat="58.435651277" lon="14.776089968" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#228;bytorp"/></node>
 <node id="-463" lat="58.438698295" lon="14.782647724" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skogslund"/></node>
-<node id="-464" lat="58.440634706" lon="14.775356039" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;ttertorp"/></node>
-<node id="-465" lat="58.442619227" lon="14.775137836" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;hem"/></node>
+<node id="-464" lat="58.440634706" lon="14.775356039" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;ttertorp"/></node>
+<node id="-465" lat="58.442619227" lon="14.775137836" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;hem"/></node>
 <node id="-466" lat="58.443975272" lon="14.786185105" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rkelund"/></node>
 <node id="-467" lat="58.446104921" lon="14.827949041" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#246;ten"/></node>
 <node id="-468" lat="58.446476004" lon="14.779841571" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="K&#228;ssle"/></node>
 <node id="-469" lat="58.446591007" lon="14.79362775" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Nytorp"/></node>
 <node id="-470" lat="58.447087511" lon="14.773815749" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uddeholm"/></node>
-<node id="-471" lat="58.448211928" lon="14.773577365" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;backa"/></node>
+<node id="-471" lat="58.448211928" lon="14.773577365" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;backa"/></node>
 <node id="-472" lat="58.450906122" lon="14.800477266" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="K&#228;ssletorp"/></node>
 <node id="-473" lat="58.452074956" lon="14.819506927" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="J&#228;rnberga"/></node>
 <node id="-474" lat="58.458042249" lon="14.797849129" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;vik"/></node>
@@ -479,8 +478,8 @@
 <node id="-477" lat="58.46485694" lon="14.824830517" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lyckebacken"/></node>
 <node id="-478" lat="58.469658093" lon="14.825142552" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Grindstugan"/></node>
 <node id="-479" lat="58.465690386" lon="14.832447166" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Eneby"/></node>
-<node id="-480" lat="58.466735503" lon="14.849583676" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;stn&#228;ssja"/></node>
-<node id="-481" lat="58.461162772" lon="14.853669358" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N&#228;set"/></node>
+<node id="-480" lat="58.466735503" lon="14.849583676" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;stn&#228;ssja"/></node>
+<node id="-481" lat="58.461162772" lon="14.853669358" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N&#228;set"/></node>
 <node id="-482" lat="58.464282764" lon="14.905094367" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Tycklingen"/></node>
 <node id="-483" lat="58.461501798" lon="14.923423359" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tegelbruket"/></node>
 <node id="-484" lat="58.385911861" lon="14.697478113" visible="true"><tag k="lantmateriet:kkod" v="4"/><tag k="place" v="hamlet"/><tag k="name" v="Borghamn"/></node>
@@ -505,7 +504,7 @@
 <node id="-503" lat="58.391908228" lon="14.774297576" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Gateg&#229;rden"/></node>
 <node id="-504" lat="58.598599267" lon="14.884410628" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandstorp"/></node>
 <node id="-505" lat="58.595089019" lon="14.885987789" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Granhult"/></node>
-<node id="-506" lat="58.579156708" lon="14.886435112" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Aludden"/></node>
+<node id="-506" lat="58.579156708" lon="14.886435112" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Aludden"/></node>
 <node id="-507" lat="58.581065035" lon="14.90262881" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bos&#228;ter"/></node>
 <node id="-508" lat="58.597061487" lon="14.903805931" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gr&#246;nlund"/></node>
 <node id="-509" lat="58.583033379" lon="14.90456675" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bikupan"/></node>
@@ -1145,7 +1144,7 @@
 <node id="-1143" lat="58.519485373" lon="16.832943467" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="K&#228;lltorp"/></node>
 <node id="-1144" lat="58.516104088" lon="16.849473066" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="M&#246;ddebo"/></node>
 <node id="-1145" lat="58.519643579" lon="16.845727143" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skomakartorp"/></node>
-<node id="-1146" lat="58.521667607" lon="16.857991471" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rosendal"/></node>
+<node id="-1146" lat="58.521667607" lon="16.857991471" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rosendal"/></node>
 <node id="-1147" lat="58.523204422" lon="16.855462439" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sandviken"/></node>
 <node id="-1148" lat="58.533116523" lon="16.754242556" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Petersborg"/></node>
 <node id="-1149" lat="58.506721616" lon="16.754401418" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="M&#246;ckel&#228;ng"/></node>
@@ -1368,7 +1367,7 @@
 <node id="-1366" lat="58.412614397" lon="16.645930197" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Degerhov"/></node>
 <node id="-1367" lat="58.367997956" lon="16.763770287" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uggelvik"/></node>
 <node id="-1368" lat="58.373668395" lon="16.778571169" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uggel&#246;"/></node>
-<node id="-1369" lat="58.380580735" lon="16.780218996" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sundhaken"/></node>
+<node id="-1369" lat="58.380580735" lon="16.780218996" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sundhaken"/></node>
 <node id="-1370" lat="58.396852009" lon="16.793068568" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Djurs&#246;"/></node>
 <node id="-1371" lat="58.401336269" lon="16.703297571" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;vik"/></node>
 <node id="-1372" lat="58.387238633" lon="16.711598484" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;stugan"/></node>
@@ -1388,7 +1387,7 @@
 <node id="-1386" lat="58.360326544" lon="16.575074374" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sj&#246;gerum"/></node>
 <node id="-1387" lat="58.352778319" lon="16.62058215" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Gibben&#228;s"/></node>
 <node id="-1388" lat="58.358159041" lon="16.668776453" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nybygget"/></node>
-<node id="-1389" lat="58.336638857" lon="16.682895998" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kiliset"/></node>
+<node id="-1389" lat="58.336638857" lon="16.682895998" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kiliset"/></node>
 <node id="-1390" lat="58.342121562" lon="16.689495059" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Karsvik"/></node>
 <node id="-1391" lat="58.363454443" lon="16.697830931" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rosenhagen"/></node>
 <node id="-1392" lat="58.357930388" lon="16.699450181" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ringsborg"/></node>
@@ -1420,7 +1419,7 @@
 <node id="-1418" lat="58.33209769" lon="16.834844349" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sk&#246;nsvik"/></node>
 <node id="-1419" lat="58.333794034" lon="16.813529889" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Holma"/></node>
 <node id="-1420" lat="58.338860812" lon="16.816061631" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Sanden"/></node>
-<node id="-1421" lat="58.341715687" lon="16.804129283" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Lerudden"/></node>
+<node id="-1421" lat="58.341715687" lon="16.804129283" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Lerudden"/></node>
 <node id="-1422" lat="58.344920445" lon="16.812562443" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hagen"/></node>
 <node id="-1423" lat="58.346366127" lon="16.82651114" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;vre Gr&#228;ns&#246;"/></node>
 <node id="-1424" lat="58.351086897" lon="16.833744443" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ladudden"/></node>
@@ -1452,7 +1451,7 @@
 <node id="-1450" lat="58.302055414" lon="16.870252988" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandvik"/></node>
 <node id="-1451" lat="58.319558258" lon="16.885383089" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="M&#228;rs&#228;ngen"/></node>
 <node id="-1452" lat="58.325246363" lon="16.895624851" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Tyrisl&#246;t"/></node>
-<node id="-1453" lat="58.312892357" lon="16.748008522" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Svensborg"/></node>
+<node id="-1453" lat="58.312892357" lon="16.748008522" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Svensborg"/></node>
 <node id="-1454" lat="58.312510562" lon="16.749774404" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Framn&#228;s"/></node>
 <node id="-1455" lat="58.298508678" lon="16.74952676" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lillg&#229;rden"/></node>
 <node id="-1456" lat="58.306336752" lon="16.754521457" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="G&#246;rvik"/></node>
@@ -1475,7 +1474,7 @@
 <node id="-1473" lat="58.318851116" lon="16.689767745" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Ramsdal"/></node>
 <node id="-1474" lat="58.324954895" lon="16.698955691" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lillskogen"/></node>
 <node id="-1475" lat="58.322020025" lon="16.706806869" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nyalund"/></node>
-<node id="-1476" lat="58.320240299" lon="16.714317978" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gransj&#246;"/></node>
+<node id="-1476" lat="58.320240299" lon="16.714317978" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gransj&#246;"/></node>
 <node id="-1477" lat="58.316287872" lon="16.721655444" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Str&#246;mmen"/></node>
 <node id="-1478" lat="58.310292101" lon="16.725938599" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Djursunda"/></node>
 <node id="-1479" lat="58.295232605" lon="16.72750867" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="P&#229;fund"/></node>
@@ -1488,7 +1487,7 @@
 <node id="-1486" lat="58.282695108" lon="16.85671243" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hagalund"/></node>
 <node id="-1487" lat="58.286442176" lon="16.870214086" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sund&#246;"/></node>
 <node id="-1488" lat="58.257481995" lon="16.862586231" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bovik"/></node>
-<node id="-1489" lat="58.260674956" lon="16.86602659" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;mt&#246;"/></node>
+<node id="-1489" lat="58.260674956" lon="16.86602659" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;mt&#246;"/></node>
 <node id="-1490" lat="58.2596148" lon="16.878294691" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Enkullen"/></node>
 <node id="-1491" lat="58.265751189" lon="16.890451072" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fiskarudden"/></node>
 <node id="-1492" lat="58.299990913" lon="16.800656679" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S&#228;nkvik"/></node>
@@ -1507,7 +1506,7 @@
 <node id="-1505" lat="58.216330417" lon="16.786271558" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ramsdal"/></node>
 <node id="-1506" lat="58.220499445" lon="16.796475469" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#246;vudden"/></node>
 <node id="-1507" lat="58.223247375" lon="16.778582101" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;sterg&#229;rden"/></node>
-<node id="-1508" lat="58.270504026" lon="16.775801119" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Djurudden"/></node>
+<node id="-1508" lat="58.270504026" lon="16.775801119" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Djurudden"/></node>
 <node id="-1509" lat="58.286939648" lon="16.783856803" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="&#196;ngelholm"/></node>
 <node id="-1510" lat="58.29121549" lon="16.767711209" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekhaga"/></node>
 <node id="-1511" lat="58.226397351" lon="16.776236449" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nys&#228;tter"/></node>
@@ -1566,7 +1565,7 @@
 <node id="-1564" lat="58.261430805" lon="16.655403809" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Vadet"/></node>
 <node id="-1565" lat="58.262086238" lon="16.705235453" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="H&#246;ktorpet"/></node>
 <node id="-1566" lat="58.263973096" lon="16.687527462" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tegeltorpet"/></node>
-<node id="-1567" lat="58.26518625" lon="16.699110961" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Strandvik"/></node>
+<node id="-1567" lat="58.26518625" lon="16.699110961" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Strandvik"/></node>
 <node id="-1568" lat="58.26649943" lon="16.688143788" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Mariedal"/></node>
 <node id="-1569" lat="58.266403035" lon="16.704880288" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hags&#228;tter"/></node>
 <node id="-1570" lat="58.26806263" lon="16.671622301" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brol&#246;t"/></node>
@@ -1760,7 +1759,7 @@
 <node id="-1758" lat="58.218354745" lon="16.439667442" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solliden"/></node>
 <node id="-1759" lat="58.193695713" lon="16.457927698" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Svederna"/></node>
 <node id="-1760" lat="58.200882998" lon="16.460213007" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Brantsbo"/></node>
-<node id="-1761" lat="58.204141123" lon="16.461893338" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kvarntorpet"/></node>
+<node id="-1761" lat="58.204141123" lon="16.461893338" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kvarntorpet"/></node>
 <node id="-1762" lat="58.215976469" lon="16.462398826" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Edhem"/></node>
 <node id="-1763" lat="58.2188015" lon="16.464370656" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Edhagen"/></node>
 <node id="-1764" lat="58.214576723" lon="16.464557307" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Fallingeberg"/></node>
@@ -1882,7 +1881,7 @@
 <node id="-1880" lat="58.597117848" lon="16.739979501" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="L&#246;n&#246;"/></node>
 <node id="-1881" lat="58.599726077" lon="16.712314855" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Stens&#246;"/></node>
 <node id="-1882" lat="58.601055788" lon="16.757902234" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Fyren"/></node>
-<node id="-1883" lat="58.629656482" lon="16.699504746" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Karlslund"/></node>
+<node id="-1883" lat="58.629656482" lon="16.699504746" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Karlslund"/></node>
 <node id="-1884" lat="58.636873062" lon="16.700588016" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekeborg"/></node>
 <node id="-1885" lat="58.62932694" lon="16.712634212" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Katrinelund"/></node>
 <node id="-1886" lat="58.632684906" lon="16.715838687" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Stormb&#228;cken"/></node>
@@ -1929,7 +1928,7 @@
 <node id="-1927" lat="58.674981369" lon="16.657968314" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Marielund"/></node>
 <node id="-1928" lat="58.652961634" lon="16.669628244" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Finnk&#228;rr"/></node>
 <node id="-1929" lat="58.607235067" lon="16.634377755" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Myckels&#228;tter"/></node>
-<node id="-1930" lat="58.606825316" lon="16.677357306" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Mauritsberg"/></node>
+<node id="-1930" lat="58.606825316" lon="16.677357306" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Mauritsberg"/></node>
 <node id="-1931" lat="58.6088418" lon="16.658982978" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Arvidsberg"/></node>
 <node id="-1932" lat="58.610906746" lon="16.652831685" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kungstorp"/></node>
 <node id="-1933" lat="58.615038917" lon="16.649612595" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#197;ketorp"/></node>
@@ -1995,17 +1994,17 @@
 <node id="-1993" lat="58.624916999" lon="16.583089868" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Sken&#228;s"/></node>
 <node id="-1994" lat="58.642013447" lon="16.584389157" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solhem"/></node>
 <node id="-1995" lat="58.611404796" lon="16.583993813" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lind&#246;"/></node>
-<node id="-1996" lat="58.63992184" lon="16.590266305" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bergtorp"/></node>
+<node id="-1996" lat="58.63992184" lon="16.590266305" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bergtorp"/></node>
 <node id="-1997" lat="58.615174217" lon="16.595889203" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stenhagen"/></node>
 <node id="-1998" lat="58.642175394" lon="16.597584116" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#228;terslund"/></node>
 <node id="-1999" lat="58.61299008" lon="16.596719309" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#197;ntorp"/></node>
 <node id="-2000" lat="58.649799062" lon="16.598678037" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;rnt&#228;ppan"/></node>
-<node id="-2001" lat="58.62761003" lon="16.597765321" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skansen"/></node>
+<node id="-2001" lat="58.62761003" lon="16.597765321" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skansen"/></node>
 <node id="-2002" lat="58.638932158" lon="16.605207876" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S&#228;ter"/></node>
 <node id="-2003" lat="58.60513451" lon="16.616499429" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Grindtorp"/></node>
 <node id="-2004" lat="58.640147402" lon="16.621641199" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Granvik"/></node>
 <node id="-2005" lat="58.618902402" lon="16.623850649" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Arken"/></node>
-<node id="-2006" lat="58.622327861" lon="16.625203998" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="F&#228;rjestaden"/></node>
+<node id="-2006" lat="58.622327861" lon="16.625203998" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="F&#228;rjestaden"/></node>
 <node id="-2007" lat="58.691062098" lon="16.583947293" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;nglund"/></node>
 <node id="-2008" lat="58.540762069" lon="16.516430507" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Timanstorp"/></node>
 <node id="-2009" lat="58.53642411" lon="16.517892285" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Romossen"/></node>
@@ -2039,7 +2038,7 @@
 <node id="-2037" lat="58.653706905" lon="16.542159631" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Marielund"/></node>
 <node id="-2038" lat="58.650394189" lon="16.5421518" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Skv&#228;ttan"/></node>
 <node id="-2039" lat="58.648797815" lon="16.544756536" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brytsebo"/></node>
-<node id="-2040" lat="58.632427487" lon="16.549037612" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden"/></node>
+<node id="-2040" lat="58.632427487" lon="16.549037612" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden"/></node>
 <node id="-2041" lat="58.630698049" lon="16.554929136" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;n"/></node>
 <node id="-2042" lat="58.59375461" lon="16.453907674" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="S&#228;by"/></node>
 <node id="-2043" lat="58.587392951" lon="16.455673704" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="G&#246;kstad"/></node>
@@ -2121,7 +2120,7 @@
 <node id="-2119" lat="58.629372623" lon="16.451534966" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lills&#228;tter"/></node>
 <node id="-2120" lat="58.630631084" lon="16.45282351" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Marieborg"/></node>
 <node id="-2121" lat="58.632401189" lon="16.461618231" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rkbacka"/></node>
-<node id="-2122" lat="58.634887621" lon="16.463158018" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="F&#229;gelhamn"/></node>
+<node id="-2122" lat="58.634887621" lon="16.463158018" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="F&#229;gelhamn"/></node>
 <node id="-2123" lat="58.636123372" lon="16.4505615" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skeppsudden"/></node>
 <node id="-2124" lat="58.524684771" lon="16.395050085" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Fristad"/></node>
 <node id="-2125" lat="58.525988533" lon="16.415451498" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hassel&#228;ngen"/></node>
@@ -2211,7 +2210,7 @@
 <node id="-2209" lat="58.553253835" lon="16.377968415" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dungen"/></node>
 <node id="-2210" lat="58.525364113" lon="16.382901874" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Fyrby"/></node>
 <node id="-2211" lat="58.705745252" lon="16.330201022" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dammhult"/></node>
-<node id="-2212" lat="58.706894167" lon="16.346056014" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Str&#229;lsj&#246;"/></node>
+<node id="-2212" lat="58.706894167" lon="16.346056014" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Str&#229;lsj&#246;"/></node>
 <node id="-2213" lat="58.693642405" lon="16.34638085" visible="true"><tag k="lantmateriet:kkod" v="6"/><tag k="place" v="town"/><tag k="name" v="Str&#246;msfors"/></node>
 <node id="-2214" lat="58.702580781" lon="16.347041573" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="B&#246;ksj&#246;"/></node>
 <node id="-2215" lat="58.71260357" lon="16.350406454" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Str&#229;lsund"/></node>
@@ -2228,7 +2227,7 @@
 <node id="-2226" lat="58.689187248" lon="16.329725875" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Tysktorpet"/></node>
 <node id="-2227" lat="58.684936471" lon="16.337043933" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Br&#228;nnk&#228;rr"/></node>
 <node id="-2228" lat="58.677771348" lon="16.338522376" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Porsgatan"/></node>
-<node id="-2229" lat="58.66577787" lon="16.347902245" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Stenb&#228;cken"/></node>
+<node id="-2229" lat="58.66577787" lon="16.347902245" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Stenb&#228;cken"/></node>
 <node id="-2230" lat="58.686024294" lon="16.349595644" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Torp"/></node>
 <node id="-2231" lat="58.676125817" lon="16.352191238" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Starrn&#228;set"/></node>
 <node id="-2232" lat="58.680879075" lon="16.35930568" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Haglund"/></node>
@@ -2239,9 +2238,9 @@
 <node id="-2237" lat="58.665303591" lon="16.376843296" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="R&#229;ssla"/></node>
 <node id="-2238" lat="58.670508516" lon="16.379153135" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Uttersberg"/></node>
 <node id="-2239" lat="58.679304522" lon="16.379624943" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hyttan"/></node>
-<node id="-2240" lat="58.657582714" lon="16.388794862" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Kolm&#229;rden"/></node>
+<node id="-2240" lat="58.657582714" lon="16.388794862" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Kolm&#229;rden"/></node>
 <node id="-2241" lat="58.612398243" lon="16.320198169" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="K&#229;rholmen"/></node>
-<node id="-2242" lat="58.632074123" lon="16.332808208" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Djur&#246; kvarn"/></node>
+<node id="-2242" lat="58.632074123" lon="16.332808208" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Djur&#246; kvarn"/></node>
 <node id="-2243" lat="58.615483037" lon="16.343246653" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kungstr&#228;dg&#229;rden"/></node>
 <node id="-2244" lat="58.624965503" lon="16.348907235" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Djur&#246;n"/></node>
 <node id="-2245" lat="58.628920486" lon="16.352683969" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Haget"/></node>
@@ -3149,7 +3148,7 @@
 <node id="-3147" lat="58.26081896" lon="16.25182541" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tasvik"/></node>
 <node id="-3148" lat="58.272368565" lon="16.252289991" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Alger"/></node>
 <node id="-3149" lat="58.257398803" lon="16.254346351" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fredriksberg"/></node>
-<node id="-3150" lat="58.263726815" lon="16.267575417" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;berga"/></node>
+<node id="-3150" lat="58.263726815" lon="16.267575417" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;berga"/></node>
 <node id="-3151" lat="58.269059982" lon="16.271448211" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Aspdalen"/></node>
 <node id="-3152" lat="58.248641399" lon="16.193022632" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Norrg&#229;rden"/></node>
 <node id="-3153" lat="58.269452194" lon="16.168220774" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rom"/></node>
@@ -3293,7 +3292,7 @@
 <node id="-3291" lat="58.897429454" lon="16.090374267" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="K&#228;lltorp"/></node>
 <node id="-3292" lat="58.905878556" lon="16.085788183" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Strandg&#229;rden"/></node>
 <node id="-3293" lat="58.915361001" lon="16.080142462" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Svenstorp"/></node>
-<node id="-3294" lat="58.918203429" lon="16.064300094" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solvik"/></node>
+<node id="-3294" lat="58.918203429" lon="16.064300094" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solvik"/></node>
 <node id="-3295" lat="58.880026389" lon="16.053612702" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sil&#228;ngen"/></node>
 <node id="-3296" lat="58.881991182" lon="16.054250931" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Karlsborg"/></node>
 <node id="-3297" lat="58.890623587" lon="16.031731144" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#228;th&#228;llen"/></node>
@@ -3381,7 +3380,7 @@
 <node id="-3379" lat="58.924697513" lon="15.981780351" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Tisenhult"/></node>
 <node id="-3380" lat="58.925908046" lon="15.99305046" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gustavsberg"/></node>
 <node id="-3381" lat="58.924760036" lon="15.994766584" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hasselbacken"/></node>
-<node id="-3382" lat="58.930172385" lon="15.995351724" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uddstugan"/></node>
+<node id="-3382" lat="58.930172385" lon="15.995351724" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uddstugan"/></node>
 <node id="-3383" lat="58.917567097" lon="15.998064341" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Erikslund"/></node>
 <node id="-3384" lat="58.884106901" lon="15.948553318" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Utterstorp"/></node>
 <node id="-3385" lat="58.893296572" lon="15.951961124" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dammen"/></node>
@@ -3417,7 +3416,7 @@
 <node id="-3415" lat="58.679967375" lon="15.968806842" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Oxdjupet"/></node>
 <node id="-3416" lat="58.68391708" lon="15.975362005" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Dammhult"/></node>
 <node id="-3417" lat="58.683504806" lon="15.981566693" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="M&#246;rkhult"/></node>
-<node id="-3418" lat="58.690532555" lon="15.982740083" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden"/></node>
+<node id="-3418" lat="58.690532555" lon="15.982740083" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden"/></node>
 <node id="-3419" lat="58.694618519" lon="15.994557178" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Rist"/></node>
 <node id="-3420" lat="58.677969867" lon="15.997570285" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Simonstorp"/></node>
 <node id="-3421" lat="58.694366055" lon="16.012331068" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Butstallet"/></node>
@@ -3489,7 +3488,7 @@
 <node id="-3487" lat="58.675572704" lon="15.922525175" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Petersberg"/></node>
 <node id="-3488" lat="58.672301026" lon="15.925700231" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lugnet"/></node>
 <node id="-3489" lat="58.664867419" lon="15.936240353" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;ngen&#228;s"/></node>
-<node id="-3490" lat="58.669695249" lon="15.953446753" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Solklint"/></node>
+<node id="-3490" lat="58.669695249" lon="15.953446753" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Solklint"/></node>
 <node id="-3491" lat="58.664901348" lon="15.962277397" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ryssn&#228;s"/></node>
 <node id="-3492" lat="58.674029673" lon="15.975051308" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rklund"/></node>
 <node id="-3493" lat="58.667621499" lon="15.983141367" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Loviseberg"/></node>
@@ -3500,7 +3499,7 @@
 <node id="-3498" lat="58.656253913" lon="16.00846549" visible="true"><tag k="lantmateriet:kkod" v="7"/><tag k="place" v="town"/><tag k="name" v="Sv&#228;rtinge"/></node>
 <node id="-3499" lat="58.670109524" lon="16.012469277" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skrikhult"/></node>
 <node id="-3500" lat="58.64307036" lon="16.022128891" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Bon&#228;s"/></node>
-<node id="-3501" lat="58.618294179" lon="16.059595681" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sv&#228;rdstorp"/></node>
+<node id="-3501" lat="58.618294179" lon="16.059595681" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sv&#228;rdstorp"/></node>
 <node id="-3502" lat="58.62256619" lon="16.056728889" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Svarvartorpet"/></node>
 <node id="-3503" lat="58.624459645" lon="16.069976562" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hagby"/></node>
 <node id="-3504" lat="58.625737819" lon="16.048920403" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brogetorpet"/></node>
@@ -3695,7 +3694,7 @@
 <node id="-3693" lat="58.530178685" lon="16.185277136" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Jonstorp"/></node>
 <node id="-3694" lat="58.530893285" lon="16.172008265" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="H&#229;rstorp"/></node>
 <node id="-3695" lat="58.533359154" lon="16.178359635" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lilleg&#229;rden"/></node>
-<node id="-3696" lat="58.534722325" lon="16.192215104" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;vik"/></node>
+<node id="-3696" lat="58.534722325" lon="16.192215104" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;vik"/></node>
 <node id="-3697" lat="58.537262305" lon="16.161055447" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Stork&#228;rret"/></node>
 <node id="-3698" lat="58.538495582" lon="16.18339339" visible="true"><tag k="lantmateriet:kkod" v="5"/><tag k="place" v="village"/><tag k="name" v="&#214;bon&#228;s"/></node>
 <node id="-3699" lat="58.539684197" lon="16.163262806" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;lvadal"/></node>
@@ -4481,7 +4480,7 @@
 <node id="-4479" lat="58.783696266" lon="16.152643538" visible="true"><tag k="lantmateriet:kkod" v="5"/><tag k="place" v="village"/><tag k="name" v="Simonstorp"/></node>
 <node id="-4480" lat="58.785775139" lon="16.160893024" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sikarg&#229;rden"/></node>
 <node id="-4481" lat="58.788574438" lon="16.207439646" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kr&#228;mbol"/></node>
-<node id="-4482" lat="58.790367343" lon="16.165661067" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Katrineberg"/></node>
+<node id="-4482" lat="58.790367343" lon="16.165661067" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Katrineberg"/></node>
 <node id="-4483" lat="58.790523011" lon="16.199042303" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#229;garstugan"/></node>
 <node id="-4484" lat="58.800149151" lon="16.195563452" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="K&#246;pshult"/></node>
 <node id="-4485" lat="58.701445167" lon="16.132142919" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tryggerslund"/></node>
@@ -4534,7 +4533,7 @@
 <node id="-4532" lat="58.700490805" lon="15.967300694" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hagalund"/></node>
 <node id="-4533" lat="58.709590521" lon="15.989979485" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Getbron"/></node>
 <node id="-4534" lat="58.712439121" lon="15.981854011" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandviken"/></node>
-<node id="-4535" lat="58.712724541" lon="15.969289753" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sn&#229;ret"/></node>
+<node id="-4535" lat="58.712724541" lon="15.969289753" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sn&#229;ret"/></node>
 <node id="-4536" lat="58.714664167" lon="15.943256926" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fridhem"/></node>
 <node id="-4537" lat="58.716237565" lon="15.944153323" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="L&#228;mmetorp"/></node>
 <node id="-4538" lat="58.716131864" lon="15.972498197" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lad&#228;ngsfallet"/></node>
@@ -4693,7 +4692,7 @@
 <node id="-4691" lat="58.987269647" lon="15.797114284" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skogshyddan"/></node>
 <node id="-4692" lat="59.011831036" lon="15.808020454" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rkvallen"/></node>
 <node id="-4693" lat="58.981108316" lon="15.862933878" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ruda"/></node>
-<node id="-4694" lat="58.985033552" lon="15.823462437" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ekudden"/></node>
+<node id="-4694" lat="58.985033552" lon="15.823462437" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ekudden"/></node>
 <node id="-4695" lat="58.988119029" lon="15.863710654" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Persborg"/></node>
 <node id="-4696" lat="58.990283389" lon="15.817523867" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stenstorp"/></node>
 <node id="-4697" lat="58.991732341" lon="15.858570331" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sunda"/></node>
@@ -4750,15 +4749,15 @@
 <node id="-4748" lat="58.968882474" lon="15.829738039" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Valler&#228;ngstorp"/></node>
 <node id="-4749" lat="58.952245501" lon="15.842332358" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lommaryd"/></node>
 <node id="-4750" lat="58.93716281" lon="15.846397894" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rnlunda"/></node>
-<node id="-4751" lat="58.934189598" lon="15.860267971" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;vik"/></node>
+<node id="-4751" lat="58.934189598" lon="15.860267971" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;vik"/></node>
 <node id="-4752" lat="58.937459905" lon="15.867221504" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Husby"/></node>
 <node id="-4753" lat="58.942769502" lon="15.870707515" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;sterg&#229;rden"/></node>
 <node id="-4754" lat="58.946896338" lon="15.871858978" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandstugan"/></node>
 <node id="-4755" lat="58.948844486" lon="15.881192044" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skedevi pr&#228;stg&#229;rd"/></node>
 <node id="-4756" lat="58.943475832" lon="15.881823109" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Kristinelund"/></node>
 <node id="-4757" lat="58.93507457" lon="15.883018413" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hageby"/></node>
-<node id="-4758" lat="58.934021596" lon="15.884112059" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;stugan"/></node>
-<node id="-4759" lat="58.935772294" lon="15.890126626" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekudden"/></node>
+<node id="-4758" lat="58.934021596" lon="15.884112059" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;stugan"/></node>
+<node id="-4759" lat="58.935772294" lon="15.890126626" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekudden"/></node>
 <node id="-4760" lat="58.939509643" lon="15.781356615" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Torpa"/></node>
 <node id="-4761" lat="58.931610401" lon="15.784661512" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S&#246;rtorp"/></node>
 <node id="-4762" lat="58.919150459" lon="15.786422456" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kvarn&#228;ngen"/></node>
@@ -4772,7 +4771,7 @@
 <node id="-4770" lat="58.927160605" lon="15.830592657" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="K&#228;xelvik"/></node>
 <node id="-4771" lat="58.934512401" lon="15.83119434" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stenfallet"/></node>
 <node id="-4772" lat="58.936519461" lon="15.835126135" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Bj&#246;rnhult"/></node>
-<node id="-4773" lat="58.932481258" lon="15.835684472" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solliden"/></node>
+<node id="-4773" lat="58.932481258" lon="15.835684472" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solliden"/></node>
 <node id="-4774" lat="58.915573566" lon="15.842666984" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sundskogen"/></node>
 <node id="-4775" lat="58.920306799" lon="15.847352637" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;ngstugan"/></node>
 <node id="-4776" lat="58.924163074" lon="15.849177852" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sundstorp"/></node>
@@ -4780,7 +4779,7 @@
 <node id="-4778" lat="58.92647074" lon="15.869702231" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sund"/></node>
 <node id="-4779" lat="58.915170892" lon="15.875078128" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="H&#228;vla bruk"/></node>
 <node id="-4780" lat="58.911531758" lon="15.887636437" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Stavk&#228;rr"/></node>
-<node id="-4781" lat="58.915833374" lon="15.89159657" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#246;v&#246;n"/></node>
+<node id="-4781" lat="58.915833374" lon="15.89159657" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#246;v&#246;n"/></node>
 <node id="-4782" lat="58.917207517" lon="15.909675875" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Mulls&#228;tter"/></node>
 <node id="-4783" lat="58.915761629" lon="15.914240914" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stavhult"/></node>
 <node id="-4784" lat="58.913108775" lon="15.75493646" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="R&#229;d"/></node>
@@ -4865,7 +4864,7 @@
 <node id="-4863" lat="58.856426081" lon="15.9049043" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rklunda"/></node>
 <node id="-4864" lat="58.862781956" lon="15.905891619" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rosendal"/></node>
 <node id="-4865" lat="58.852079358" lon="15.908147719" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Haga"/></node>
-<node id="-4866" lat="58.848045866" lon="15.9115484" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Andviken"/></node>
+<node id="-4866" lat="58.848045866" lon="15.9115484" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Andviken"/></node>
 <node id="-4867" lat="58.855550561" lon="15.911865705" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="&#197;nden&#228;s"/></node>
 <node id="-4868" lat="58.864765157" lon="15.675605956" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;ngtorpet"/></node>
 <node id="-4869" lat="58.861196923" lon="15.680332896" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hultet"/></node>
@@ -4977,12 +4976,12 @@
 <node id="-4975" lat="58.656328567" lon="15.803722877" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Eliantorp"/></node>
 <node id="-4976" lat="58.657131541" lon="15.809381052" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hampkullen"/></node>
 <node id="-4977" lat="58.662023038" lon="15.796787047" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Pettersberg"/></node>
-<node id="-4978" lat="58.662435829" lon="15.812180384" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rudkullen"/></node>
+<node id="-4978" lat="58.662435829" lon="15.812180384" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rudkullen"/></node>
 <node id="-4979" lat="58.665541653" lon="15.801165183" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ringtorp"/></node>
 <node id="-4980" lat="58.667329925" lon="15.803747851" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Annelund"/></node>
 <node id="-4981" lat="58.669302792" lon="15.830321108" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="K&#246;p"/></node>
-<node id="-4982" lat="58.626069503" lon="15.84798433" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Glansgruvan"/></node>
-<node id="-4983" lat="58.635895681" lon="15.89178492" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="G&#228;ddn&#228;set"/></node>
+<node id="-4982" lat="58.626069503" lon="15.84798433" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Glansgruvan"/></node>
+<node id="-4983" lat="58.635895681" lon="15.89178492" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="G&#228;ddn&#228;set"/></node>
 <node id="-4984" lat="58.64213969" lon="15.842166434" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Mo grind"/></node>
 <node id="-4985" lat="58.642004932" lon="15.901852595" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Ragnetorp"/></node>
 <node id="-4986" lat="58.643373965" lon="15.864297443" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;fallet"/></node>
@@ -5259,11 +5258,11 @@
 <node id="-5257" lat="58.486941586" lon="15.893169976" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandtorp"/></node>
 <node id="-5258" lat="58.484277589" lon="15.895229084" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nys&#228;tter"/></node>
 <node id="-5259" lat="58.500843088" lon="15.905053842" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="R&#228;nnefj&#228;lla"/></node>
-<node id="-5260" lat="58.476797767" lon="15.628676679" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;stern&#228;s"/></node>
+<node id="-5260" lat="58.476797767" lon="15.628676679" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="&#214;stern&#228;s"/></node>
 <node id="-5261" lat="58.482802406" lon="15.633157111" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sveden"/></node>
 <node id="-5262" lat="58.484148991" lon="15.636920125" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gatan"/></node>
 <node id="-5263" lat="58.488272203" lon="15.645776794" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nybygget"/></node>
-<node id="-5264" lat="58.509822562" lon="15.575152493" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Snavudden"/></node>
+<node id="-5264" lat="58.509822562" lon="15.575152493" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Snavudden"/></node>
 <node id="-5265" lat="58.517131437" lon="15.566110248" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Anderstorp"/></node>
 <node id="-5266" lat="58.521677545" lon="15.573286256" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Snavetorp"/></node>
 <node id="-5267" lat="58.524752512" lon="15.576564407" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fiskarhemmet"/></node>
@@ -5298,7 +5297,7 @@
 <node id="-5296" lat="58.498541526" lon="15.763014036" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Janstorp"/></node>
 <node id="-5297" lat="58.498881908" lon="15.812911936" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="H&#246;rninge"/></node>
 <node id="-5298" lat="58.503694958" lon="15.825760612" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekeby"/></node>
-<node id="-5299" lat="58.515805091" lon="15.818320301" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hamra"/></node>
+<node id="-5299" lat="58.515805091" lon="15.818320301" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hamra"/></node>
 <node id="-5300" lat="58.475215249" lon="15.653404975" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tv&#228;rskogen"/></node>
 <node id="-5301" lat="58.472682934" lon="15.654080434" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="H&#228;sthagen"/></node>
 <node id="-5302" lat="58.48186632" lon="15.658538407" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Roxtuna"/></node>
@@ -5377,7 +5376,7 @@
 <node id="-5375" lat="58.451981399" lon="15.550545239" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Alguvi"/></node>
 <node id="-5376" lat="58.456284094" lon="15.513614327" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Vallby"/></node>
 <node id="-5377" lat="58.459876797" lon="15.550411539" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nybro"/></node>
-<node id="-5378" lat="58.464886331" lon="15.553009533" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Nybrobaden"/></node>
+<node id="-5378" lat="58.464886331" lon="15.553009533" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Nybrobaden"/></node>
 <node id="-5379" lat="58.466577022" lon="15.528021389" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="H&#228;rna"/></node>
 <node id="-5380" lat="58.452242494" lon="15.574966374" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S&#228;ttuna"/></node>
 <node id="-5381" lat="58.427929447" lon="15.574912478" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Sk&#228;ggetorp"/></node>
@@ -5386,7 +5385,7 @@
 <node id="-5384" lat="58.417539735" lon="15.583303182" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Barh&#228;ll"/></node>
 <node id="-5385" lat="58.447633285" lon="15.585256381" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S&#228;by"/></node>
 <node id="-5386" lat="58.431900797" lon="15.603901217" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Tornby"/></node>
-<node id="-5387" lat="58.447766337" lon="15.627404935" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St&#229;ngholmen"/></node>
+<node id="-5387" lat="58.447766337" lon="15.627404935" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St&#229;ngholmen"/></node>
 <node id="-5388" lat="58.468249905" lon="15.631620614" visible="true"><tag k="lantmateriet:kkod" v="7"/><tag k="place" v="town"/><tag k="name" v="Ek&#228;ngen"/></node>
 <node id="-5389" lat="58.451179995" lon="15.636392707" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="N&#228;sby"/></node>
 <node id="-5390" lat="58.461320191" lon="15.641820508" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sand"/></node>
@@ -5488,7 +5487,7 @@
 <node id="-5486" lat="58.375345491" lon="15.698783863" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Hjulsbro"/></node>
 <node id="-5487" lat="58.35929108" lon="15.710086755" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Bogestad"/></node>
 <node id="-5488" lat="58.36650432" lon="15.710762549" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nybro"/></node>
-<node id="-5489" lat="58.371403447" lon="15.71525111" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="M&#246;jetorp"/></node>
+<node id="-5489" lat="58.371403447" lon="15.71525111" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="M&#246;jetorp"/></node>
 <node id="-5490" lat="58.367549444" lon="15.716629685" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sp&#229;ngen"/></node>
 <node id="-5491" lat="58.373622879" lon="15.724309633" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Docketorp"/></node>
 <node id="-5492" lat="58.37639521" lon="15.731171545" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Norrg&#229;rden"/></node>
@@ -6377,7 +6376,7 @@
 <node id="-6375" lat="58.576213654" lon="15.390688746" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solliden"/></node>
 <node id="-6376" lat="58.580646562" lon="15.392654586" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#197;kerslund"/></node>
 <node id="-6377" lat="58.552022358" lon="15.287473471" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Korsb&#228;ck"/></node>
-<node id="-6378" lat="58.552594888" lon="15.275976243" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Strandbaden"/></node>
+<node id="-6378" lat="58.552594888" lon="15.275976243" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Strandbaden"/></node>
 <node id="-6379" lat="58.553025759" lon="15.304167037" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="N&#228;s"/></node>
 <node id="-6380" lat="58.558912584" lon="15.313687856" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekliden"/></node>
 <node id="-6381" lat="58.560058952" lon="15.288226788" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;stan&#229;"/></node>
@@ -6748,7 +6747,7 @@
 <node id="-6746" lat="58.366174567" lon="15.143797194" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Olofstorp"/></node>
 <node id="-6747" lat="58.372128746" lon="15.146885094" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ullekalv"/></node>
 <node id="-6748" lat="58.357640472" lon="15.147781887" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Holstein"/></node>
-<node id="-6749" lat="58.335293705" lon="15.148303395" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Egebylund"/></node>
+<node id="-6749" lat="58.335293705" lon="15.148303395" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Egebylund"/></node>
 <node id="-6750" lat="58.346313502" lon="15.148827901" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V L&#228;rketorp"/></node>
 <node id="-6751" lat="58.337537502" lon="15.149679105" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Egeby"/></node>
 <node id="-6752" lat="58.32711478" lon="15.153118117" visible="true"><tag k="lantmateriet:kkod" v="8"/><tag k="place" v="city"/><tag k="name" v="Mj&#246;lby"/></node>
@@ -7216,7 +7215,7 @@
 <node id="-7214" lat="58.431797662" lon="15.239143525" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Norra Tolebro"/></node>
 <node id="-7215" lat="58.434345163" lon="15.215647121" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kullen"/></node>
 <node id="-7216" lat="58.436830576" lon="15.217100986" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stenstorp"/></node>
-<node id="-7217" lat="58.438906038" lon="15.251129945" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#229;gforsen"/></node>
+<node id="-7217" lat="58.438906038" lon="15.251129945" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#229;gforsen"/></node>
 <node id="-7218" lat="58.439310687" lon="15.236710893" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Brobyg&#229;rd"/></node>
 <node id="-7219" lat="58.439551177" lon="15.217563073" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Lottstad"/></node>
 <node id="-7220" lat="58.441841079" lon="15.223007225" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Berg"/></node>
@@ -7983,7 +7982,7 @@
 <node id="-7981" lat="58.580026633" lon="15.267988972" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kolstorp"/></node>
 <node id="-7982" lat="58.582773434" lon="15.270667283" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Treh&#246;rna"/></node>
 <node id="-7983" lat="58.550683859" lon="15.191188998" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden&#228;s"/></node>
-<node id="-7984" lat="58.571708478" lon="15.17254628" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kalkberget"/></node>
+<node id="-7984" lat="58.571708478" lon="15.17254628" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kalkberget"/></node>
 <node id="-7985" lat="58.574851034" lon="15.186059267" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Storeberg"/></node>
 <node id="-7986" lat="58.576229711" lon="15.157912218" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;g&#229;rden"/></node>
 <node id="-7987" lat="58.576794046" lon="15.164025262" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Skrukarp"/></node>
@@ -8004,13 +8003,13 @@
 <node id="-8002" lat="58.609513979" lon="15.152537894" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Torensberg"/></node>
 <node id="-8003" lat="58.613669396" lon="15.166040519" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fallsviken"/></node>
 <node id="-8004" lat="58.558009509" lon="15.082939702" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Borenshult"/></node>
-<node id="-8005" lat="58.571190355" lon="15.102879756" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Karshult"/></node>
+<node id="-8005" lat="58.571190355" lon="15.102879756" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Karshult"/></node>
 <node id="-8006" lat="58.549117877" lon="15.1095331" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;ngbacken"/></node>
 <node id="-8007" lat="58.551166256" lon="15.109985554" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;backa"/></node>
 <node id="-8008" lat="58.552323067" lon="15.110849028" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Andersbo"/></node>
 <node id="-8009" lat="58.559682698" lon="15.114590012" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brevik"/></node>
 <node id="-8010" lat="58.551209102" lon="15.130296325" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dalen"/></node>
-<node id="-8011" lat="58.563881426" lon="15.130549648" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brittn&#228;s"/></node>
+<node id="-8011" lat="58.563881426" lon="15.130549648" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brittn&#228;s"/></node>
 <node id="-8012" lat="58.840621748" lon="15.224851572" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stenmon"/></node>
 <node id="-8013" lat="58.835593879" lon="15.22673671" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#246;vn&#228;set"/></node>
 <node id="-8014" lat="58.82472263" lon="15.238518585" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Tj&#228;lltorp"/></node>
@@ -8021,7 +8020,7 @@
 <node id="-8019" lat="58.842292314" lon="15.285566667" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="K&#228;rnskogen"/></node>
 <node id="-8020" lat="58.856253518" lon="15.323439316" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Boverke"/></node>
 <node id="-8021" lat="58.177538647" lon="16.790124284" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Karlsberg"/></node>
-<node id="-8022" lat="58.178203188" lon="16.805446177" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#228;ttersund"/></node>
+<node id="-8022" lat="58.178203188" lon="16.805446177" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#228;ttersund"/></node>
 <node id="-8023" lat="58.179776948" lon="16.823655354" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hagaborg"/></node>
 <node id="-8024" lat="58.182050234" lon="16.801491307" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Forshem"/></node>
 <node id="-8025" lat="58.183388966" lon="16.787424927" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="&#197;b&#228;cksn&#228;s"/></node>
@@ -8178,7 +8177,7 @@
 <node id="-8176" lat="58.108102201" lon="16.67655873" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;stanb&#228;ck"/></node>
 <node id="-8177" lat="58.108349716" lon="16.731951423" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden"/></node>
 <node id="-8178" lat="58.110789375" lon="16.669264321" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#197;b&#228;ck"/></node>
-<node id="-8179" lat="58.111822992" lon="16.730218797" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tokudden"/></node>
+<node id="-8179" lat="58.111822992" lon="16.730218797" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tokudden"/></node>
 <node id="-8180" lat="58.124062122" lon="16.699246425" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="F&#229;gelvik"/></node>
 <node id="-8181" lat="58.12375086" lon="16.7507994" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hagalund"/></node>
 <node id="-8182" lat="58.047778351" lon="16.654484341" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hummelviken"/></node>
@@ -8229,7 +8228,7 @@
 <node id="-8227" lat="58.165888143" lon="16.611450523" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gr&#228;vs&#228;tter"/></node>
 <node id="-8228" lat="58.170242272" lon="16.631452417" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="K&#228;ggla"/></node>
 <node id="-8229" lat="58.160544753" lon="16.631093424" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hagalund"/></node>
-<node id="-8230" lat="58.178678698" lon="16.650239072" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Eriksberg"/></node>
+<node id="-8230" lat="58.178678698" lon="16.650239072" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Eriksberg"/></node>
 <node id="-8231" lat="58.176232136" lon="16.663594491" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#197;sendalen"/></node>
 <node id="-8232" lat="58.169560279" lon="16.670363896" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fridhem"/></node>
 <node id="-8233" lat="58.176687556" lon="16.670705651" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Stor&#228;ngen"/></node>
@@ -8512,12 +8511,12 @@
 <node id="-8510" lat="57.896791304" lon="16.013684004" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;n&#228;s"/></node>
 <node id="-8511" lat="57.895364955" lon="16.016815379" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hall&#229;ngsborg"/></node>
 <node id="-8512" lat="57.887599927" lon="16.021774109" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Tallsebo"/></node>
-<node id="-8513" lat="57.903482299" lon="16.02279854" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uddetorp"/></node>
+<node id="-8513" lat="57.903482299" lon="16.02279854" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Uddetorp"/></node>
 <node id="-8514" lat="57.903335174" lon="16.045286854" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="V&#229;rdslunda"/></node>
 <node id="-8515" lat="57.905571661" lon="16.027700918" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lundsbo"/></node>
 <node id="-8516" lat="57.906745423" lon="16.040290732" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Torsliden"/></node>
 <node id="-8517" lat="57.861683228" lon="15.895865533" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hultet"/></node>
-<node id="-8518" lat="57.878414021" lon="15.901508516" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bog&#246;lsn&#228;s"/></node>
+<node id="-8518" lat="57.878414021" lon="15.901508516" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bog&#246;lsn&#228;s"/></node>
 <node id="-8519" lat="57.879127052" lon="15.916095104" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rnhult"/></node>
 <node id="-8520" lat="57.874210711" lon="15.931295619" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gr&#246;nlid"/></node>
 <node id="-8521" lat="57.853454295" lon="15.945503456" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#196;mtebo"/></node>
@@ -8655,7 +8654,7 @@
 <node id="-8653" lat="58.123238431" lon="16.013264939" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rklund"/></node>
 <node id="-8654" lat="58.122209057" lon="16.015069223" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Karlsborg"/></node>
 <node id="-8655" lat="58.127083884" lon="16.016532247" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nytorp"/></node>
-<node id="-8656" lat="58.103630087" lon="16.017714257" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tolsj&#246;"/></node>
+<node id="-8656" lat="58.103630087" lon="16.017714257" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Tolsj&#246;"/></node>
 <node id="-8657" lat="58.099035218" lon="16.021858772" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Blomdala"/></node>
 <node id="-8658" lat="58.109290697" lon="16.023428713" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Trulstorpet"/></node>
 <node id="-8659" lat="58.115185723" lon="16.030621021" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Anderstorp"/></node>
@@ -8780,7 +8779,7 @@
 <node id="-8778" lat="58.21345278" lon="15.61729291" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hugnebo"/></node>
 <node id="-8779" lat="58.201095041" lon="15.624377452" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Norra Fj&#228;lla"/></node>
 <node id="-8780" lat="58.189013188" lon="15.62459077" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden"/></node>
-<node id="-8781" lat="58.218016697" lon="15.629951281" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Stensudden"/></node>
+<node id="-8781" lat="58.218016697" lon="15.629951281" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="Stensudden"/></node>
 <node id="-8782" lat="58.204377984" lon="15.643373147" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Viggebysand"/></node>
 <node id="-8783" lat="58.209869939" lon="15.651453906" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sk&#228;lstorp"/></node>
 <node id="-8784" lat="58.221421313" lon="15.653112512" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="F&#229;gels&#229;ngen"/></node>
@@ -8803,7 +8802,7 @@
 <node id="-8801" lat="58.19043286" lon="15.586101883" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Oxhaga"/></node>
 <node id="-8802" lat="58.197160165" lon="15.588709855" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandvik"/></node>
 <node id="-8803" lat="58.184700088" lon="15.590996461" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Svartvik"/></node>
-<node id="-8804" lat="58.190296375" lon="15.591906376" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;vik"/></node>
+<node id="-8804" lat="58.190296375" lon="15.591906376" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;vik"/></node>
 <node id="-8805" lat="58.183716956" lon="15.595741665" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Pershult"/></node>
 <node id="-8806" lat="58.214557738" lon="15.598453717" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#229;gen"/></node>
 <node id="-8807" lat="58.197445451" lon="15.598727368" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nystugan"/></node>
@@ -8901,11 +8900,11 @@
 <node id="-8899" lat="58.163557265" lon="15.700847122" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skeda"/></node>
 <node id="-8900" lat="58.142971812" lon="15.881601616" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brodalen"/></node>
 <node id="-8901" lat="58.144131281" lon="15.798275298" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St&#229;lvik"/></node>
-<node id="-8902" lat="58.147448664" lon="15.853324359" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;stantorp"/></node>
-<node id="-8903" lat="58.149939598" lon="15.885851432" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rnkojan"/></node>
+<node id="-8902" lat="58.147448664" lon="15.853324359" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="V&#228;stantorp"/></node>
+<node id="-8903" lat="58.149939598" lon="15.885851432" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rnkojan"/></node>
 <node id="-8904" lat="58.151468292" lon="15.862000748" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="H&#228;rsj&#246;"/></node>
 <node id="-8905" lat="58.15633103" lon="15.84424213" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="L&#229;ngn&#228;s"/></node>
-<node id="-8906" lat="58.158425864" lon="15.832803739" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden"/></node>
+<node id="-8906" lat="58.158425864" lon="15.832803739" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Udden"/></node>
 <node id="-8907" lat="58.161243218" lon="15.827754045" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gr&#246;ndal"/></node>
 <node id="-8908" lat="58.1613303" lon="15.855407179" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="H&#229;lebo"/></node>
 <node id="-8909" lat="58.162846498" lon="15.801736682" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#197;l&#228;nders&#246;"/></node>
@@ -8943,10 +8942,10 @@
 <node id="-8941" lat="58.138364706" lon="15.624315216" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hagbergslund"/></node>
 <node id="-8942" lat="58.142541414" lon="15.629789814" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="H&#246;gbo"/></node>
 <node id="-8943" lat="58.161573779" lon="15.631740581" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sonebo"/></node>
-<node id="-8944" lat="58.176175256" lon="15.63422675" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Degerudden"/></node>
+<node id="-8944" lat="58.176175256" lon="15.63422675" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Degerudden"/></node>
 <node id="-8945" lat="58.141539053" lon="15.634494049" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Marieborg"/></node>
 <node id="-8946" lat="58.144019252" lon="15.637867533" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Muggebo"/></node>
-<node id="-8947" lat="58.155909113" lon="15.638352126" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#246;rg&#229;rden"/></node>
+<node id="-8947" lat="58.155909113" lon="15.638352126" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S&#246;rg&#229;rden"/></node>
 <node id="-8948" lat="58.136807009" lon="15.641372972" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Eriksholm"/></node>
 <node id="-8949" lat="58.147720734" lon="15.662011308" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hallstad"/></node>
 <node id="-8950" lat="58.172648311" lon="15.677527493" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Hamra"/></node>
@@ -9260,7 +9259,7 @@
 <node id="-9258" lat="57.901258959" lon="15.859764744" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#197;shorva"/></node>
 <node id="-9259" lat="57.90283877" lon="15.877012933" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Hamra"/></node>
 <node id="-9260" lat="57.907997311" lon="15.835321376" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="&#197;by"/></node>
-<node id="-9261" lat="57.91203949" lon="15.838048043" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Torssund"/></node>
+<node id="-9261" lat="57.91203949" lon="15.838048043" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Torssund"/></node>
 <node id="-9262" lat="57.913804729" lon="15.834612264" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Humleg&#229;rden"/></node>
 <node id="-9263" lat="57.917024999" lon="15.788432164" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Norrg&#229;rden"/></node>
 <node id="-9264" lat="57.920946911" lon="15.81227502" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Lumra"/></node>
@@ -9319,7 +9318,7 @@
 <node id="-9317" lat="57.915085121" lon="15.763865598" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandviken"/></node>
 <node id="-9318" lat="57.916188416" lon="15.771556441" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="&#197;byboda"/></node>
 <node id="-9319" lat="57.917684599" lon="15.761781371" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kimstad"/></node>
-<node id="-9320" lat="57.919580754" lon="15.773536701" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandsj&#246;"/></node>
+<node id="-9320" lat="57.919580754" lon="15.773536701" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandsj&#246;"/></node>
 <node id="-9321" lat="57.922435996" lon="15.739023775" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skansen"/></node>
 <node id="-9322" lat="57.924007685" lon="15.757373807" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Orrem&#229;la"/></node>
 <node id="-9323" lat="57.924901154" lon="15.778969306" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Horvan"/></node>
@@ -9449,7 +9448,7 @@
 <node id="-9447" lat="57.879036946" lon="15.629865627" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rkvik"/></node>
 <node id="-9448" lat="57.881745536" lon="15.634103647" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Harudden"/></node>
 <node id="-9449" lat="57.860888113" lon="15.639694109" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Ennesbo"/></node>
-<node id="-9450" lat="57.864290258" lon="15.647221043" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;tomta"/></node>
+<node id="-9450" lat="57.864290258" lon="15.647221043" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;tomta"/></node>
 <node id="-9451" lat="57.870405142" lon="15.647651114" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sandstorp"/></node>
 <node id="-9452" lat="57.868609273" lon="15.651040744" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skansen"/></node>
 <node id="-9453" lat="57.85665656" lon="15.65220677" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ljunghaga"/></node>
@@ -9475,7 +9474,7 @@
 <node id="-9473" lat="57.929296852" lon="15.586000328" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Nybygget"/></node>
 <node id="-9474" lat="57.89742524" lon="15.587338226" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekelund"/></node>
 <node id="-9475" lat="57.906172036" lon="15.588846814" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ekeberg"/></node>
-<node id="-9476" lat="57.917784173" lon="15.591231168" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dalstugan"/></node>
+<node id="-9476" lat="57.917784173" lon="15.591231168" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dalstugan"/></node>
 <node id="-9477" lat="57.918075669" lon="15.604212584" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rummingebo"/></node>
 <node id="-9478" lat="57.886932909" lon="15.603896438" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Kvarnstugan"/></node>
 <node id="-9479" lat="57.884283853" lon="15.605622745" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dammin"/></node>
@@ -9673,7 +9672,7 @@
 <node id="-9671" lat="57.954578326" lon="15.156765324" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sundsholm"/></node>
 <node id="-9672" lat="57.928464138" lon="15.15923478" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Holk&#229;sa"/></node>
 <node id="-9673" lat="57.948160989" lon="15.160048451" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Svenshem"/></node>
-<node id="-9674" lat="57.968394071" lon="15.162927599" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bodastaden"/></node>
+<node id="-9674" lat="57.968394071" lon="15.162927599" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bodastaden"/></node>
 <node id="-9675" lat="57.97980848" lon="15.164365886" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Norr&#228;ng"/></node>
 <node id="-9676" lat="57.950373938" lon="15.164467771" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Strandsborg"/></node>
 <node id="-9677" lat="57.944585896" lon="15.167441049" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Djupviken"/></node>
@@ -9681,7 +9680,7 @@
 <node id="-9679" lat="57.952048055" lon="15.168699255" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dragsn&#228;s"/></node>
 <node id="-9680" lat="57.941297686" lon="15.172808569" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L&#246;vhult"/></node>
 <node id="-9681" lat="57.955812057" lon="15.174985736" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Garvarehemmet"/></node>
-<node id="-9682" lat="57.972840813" lon="15.175964681" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brevik"/></node>
+<node id="-9682" lat="57.972840813" lon="15.175964681" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Brevik"/></node>
 <node id="-9683" lat="57.934957026" lon="15.180321942" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Doppan"/></node>
 <node id="-9684" lat="57.925671166" lon="15.191097337" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Berget"/></node>
 <node id="-9685" lat="57.936410815" lon="15.204771958" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Aspa"/></node>
@@ -10742,13 +10741,13 @@
 <node id="-10740" lat="58.034431324" lon="15.101282849" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Helgebo"/></node>
 <node id="-10741" lat="58.035869493" lon="15.087772956" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sundet"/></node>
 <node id="-10742" lat="58.036755168" lon="15.079493813" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fiskarp"/></node>
-<node id="-10743" lat="58.036880673" lon="15.063981394" visible="true"><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Liljeholmen"/></node>
+<node id="-10743" lat="58.036880673" lon="15.063981394" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="16"/><tag k="place" v="locality"/><tag k="name" v="Liljeholmen"/></node>
 <node id="-10744" lat="58.045597415" lon="15.087170044" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Flaskarp"/></node>
 <node id="-10745" lat="58.047633917" lon="15.060307614" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="H&#229;rdaholmen"/></node>
 <node id="-10746" lat="58.018116247" lon="15.105857652" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bj&#246;rkevik"/></node>
 <node id="-10747" lat="58.002886386" lon="15.112038968" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Storaviken"/></node>
 <node id="-10748" lat="58.004222981" lon="15.113988925" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Karlsbo"/></node>
-<node id="-10749" lat="58.034145045" lon="15.12058677" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Flanhult"/></node>
+<node id="-10749" lat="58.034145045" lon="15.12058677" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Flanhult"/></node>
 <node id="-10750" lat="57.993938676" lon="15.123445562" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Saxab&#228;cken"/></node>
 <node id="-10751" lat="57.997313171" lon="15.135011204" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="L&#246;v&#229;sa"/></node>
 <node id="-10752" lat="58.010138222" lon="15.136261" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sidviken"/></node>
@@ -10772,7 +10771,7 @@
 <node id="-10770" lat="57.938962035" lon="15.139757431" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="H&#246;glycke"/></node>
 <node id="-10771" lat="57.948691737" lon="15.144373456" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Skogalund"/></node>
 <node id="-10772" lat="57.930302354" lon="15.146916818" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Toppekulla"/></node>
-<node id="-10773" lat="57.961539348" lon="15.14941051" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solviken"/></node>
+<node id="-10773" lat="57.961539348" lon="15.14941051" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Solviken"/></node>
 <node id="-10774" lat="57.959729487" lon="15.153154538" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sunnan&#229;"/></node>
 <node id="-10775" lat="57.92074569" lon="15.154187087" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Ljungberga"/></node>
 <node id="-10776" lat="57.939176943" lon="15.154316786" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Falla"/></node>
@@ -10977,7 +10976,7 @@
 <node id="-10975" lat="58.174470351" lon="14.631425706" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sanden"/></node>
 <node id="-10976" lat="58.174932665" lon="14.658792489" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Gammalsby"/></node>
 <node id="-10977" lat="58.179140448" lon="14.663785061" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Sunnesj&#246;"/></node>
-<node id="-10978" lat="58.122331214" lon="14.550513504" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;berga"/></node>
+<node id="-10978" lat="58.122331214" lon="14.550513504" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Sj&#246;berga"/></node>
 <node id="-10979" lat="58.1237942" lon="14.560511331" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Holkaberg"/></node>
 <node id="-10980" lat="58.12407156" lon="14.612830394" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Dagl&#246;sa"/></node>
 <node id="-10981" lat="58.125382512" lon="14.606823154" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Glasfall"/></node>
@@ -11065,7 +11064,7 @@
 <node id="-11063" lat="58.140975922" lon="16.772412149" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Hul&#246;"/></node>
 <node id="-11064" lat="58.58635374" lon="15.097043171" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Rospigget"/></node>
 <node id="-11065" lat="58.41564469" lon="15.026787527" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Br&#228;nneg&#229;rden"/></node>
-<node id="-11066" lat="58.019135642" lon="16.711755155" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Sj&#246;sveden"/></node>
+<node id="-11066" lat="58.019135642" lon="16.711755155" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Sj&#246;sveden"/></node>
 <node id="-11067" lat="58.167584359" lon="15.017601798" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Herkhult"/></node>
 <node id="-11068" lat="58.232803721" lon="16.034846856" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. Sk&#228;lstorp"/></node>
 <node id="-11069" lat="58.658016806" lon="14.966100699" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Grindtorpet"/></node>
@@ -11455,7 +11454,7 @@
 <node id="-11453" lat="57.723640845" lon="15.416092426" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="N Br&#229;ta"/></node>
 <node id="-11454" lat="58.316446951" lon="15.637725945" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Gamla Holvarebo"/></node>
 <node id="-11455" lat="58.290589988" lon="15.109939061" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Hadel&#246;v"/></node>
-<node id="-11456" lat="58.166421656" lon="15.943560462" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S Botorp"/></node>
+<node id="-11456" lat="58.166421656" lon="15.943560462" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S Botorp"/></node>
 <node id="-11457" lat="58.386891076" lon="16.005969796" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. M&#229;len"/></node>
 <node id="-11458" lat="58.279637008" lon="15.820795034" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. M&#229;len"/></node>
 <node id="-11459" lat="58.172685686" lon="16.191244935" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. M&#229;len"/></node>
@@ -11587,7 +11586,7 @@
 <node id="-11585" lat="57.925494648" lon="15.507263048" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. &#197;kerdal"/></node>
 <node id="-11586" lat="58.466548889" lon="15.435468642" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="S Lund"/></node>
 <node id="-11587" lat="58.393920575" lon="16.448853752" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="&#214;vre &#197;skog"/></node>
-<node id="-11588" lat="58.235861138" lon="15.720546174" visible="true"><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="S&#229;gareholmen"/></node>
+<node id="-11588" lat="58.235861138" lon="15.720546174" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="3"/><tag k="place" v="hamlet"/><tag k="name" v="S&#229;gareholmen"/></node>
 <node id="-11589" lat="58.788184612" lon="15.478416658" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="Stallmobacken"/></node>
 <node id="-11590" lat="58.369605741" lon="16.431136374" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="L. R&#229;stock"/></node>
 <node id="-11591" lat="57.929260416" lon="15.676439676" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="St. Rothult"/></node>
@@ -11646,7 +11645,7 @@
 <node id="-11644" lat="58.357434326" lon="15.369778213" visible="true"><tag k="lantmateriet:kkod" v="2"/><tag k="place" v="hamlet"/><tag k="name" v="L. Tollstad"/></node>
 <node id="-11645" lat="58.895504594" lon="15.994017566" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="St. Nybygget"/></node>
 <node id="-11646" lat="58.603078529" lon="16.683975454" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Marianneberg"/></node>
-<node id="-11647" lat="58.12715571" lon="16.703044739" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fiskarudden"/></node>
+<node id="-11647" lat="58.12715571" lon="16.703044739" visible="true"><tag k="import:in_water" v="yes"/><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Fiskarudden"/></node>
 <node id="-11648" lat="57.713906261" lon="15.42880401" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S Br&#229;ta"/></node>
 <node id="-11649" lat="58.173125774" lon="15.095148828" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="S Kvisslehult"/></node>
 <node id="-11650" lat="58.10639367" lon="14.72383292" visible="true"><tag k="lantmateriet:kkod" v="1"/><tag k="place" v="isolated_dwelling"/><tag k="name" v="Bjurshemmet"/></node>
