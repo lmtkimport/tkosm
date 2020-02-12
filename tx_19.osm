@@ -3605,8 +3605,7 @@
     <tag k='name' v='Udden' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-563515' visible='true' lat='59.509906815' lon='16.513926865'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-563515' action='modify' visible='true' lat='59.51016811146' lon='16.51748883857'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Askholmen' />
     <tag k='place' v='hamlet' />
@@ -8166,14 +8165,12 @@
     <tag k='name' v='Johannisberg' />
     <tag k='place' v='locality' />
   </node>
-  <node id='-565339' visible='true' lat='59.581332471' lon='16.520718138'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565339' action='modify' visible='true' lat='59.58031120792' lon='16.51878694751'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Lövudden' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-565341' visible='true' lat='59.57102743' lon='16.532063894'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565341' action='modify' visible='true' lat='59.57059272064' lon='16.52485411617'>
     <tag k='lantmateriet:kkod' v='4' />
     <tag k='name' v='Ekbacken' />
     <tag k='place' v='hamlet' />
@@ -8183,8 +8180,7 @@
     <tag k='name' v='Landero' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-565345' visible='true' lat='59.564237862' lon='16.539257168'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565345' action='modify' visible='true' lat='59.56528135203' lon='16.52912914676'>
     <tag k='lantmateriet:kkod' v='5' />
     <tag k='name' v='Enhagen' />
     <tag k='place' v='village' />
@@ -8194,8 +8190,7 @@
     <tag k='name' v='Vinterviken' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-565349' visible='true' lat='59.578798498' lon='16.603611807'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565349' action='modify' visible='true' lat='59.57868984628' lon='16.60670171179'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Björnöändan' />
     <tag k='place' v='isolated_dwelling' />
@@ -9110,8 +9105,7 @@
     <tag k='name' v='Tärnö' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-565715' visible='true' lat='59.480874568' lon='16.459058279'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565715' action='modify' visible='true' lat='59.48172995304' lon='16.45903682133'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Tärnö-ö' />
     <tag k='place' v='hamlet' />
@@ -9131,8 +9125,7 @@
     <tag k='name' v='Vedetten' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-565723' visible='true' lat='59.487615714' lon='16.480663939'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565723' action='modify' visible='true' lat='59.48830206605' lon='16.47834651041'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Skutholmen' />
     <tag k='place' v='isolated_dwelling' />
@@ -9232,14 +9225,12 @@
     <tag k='name' v='Stensjö' />
     <tag k='place' v='locality' />
   </node>
-  <node id='-565763' visible='true' lat='59.478870706' lon='16.282890144'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565763' action='modify' visible='true' lat='59.47900147466' lon='16.28520757259'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Lillön' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-565765' visible='true' lat='59.483277942' lon='16.280481669'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565765' action='modify' visible='true' lat='59.48364840354' lon='16.28275618224'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Mellansundet' />
     <tag k='place' v='hamlet' />
@@ -9794,8 +9785,7 @@
     <tag k='name' v='Sofielund' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-565987' visible='true' lat='59.961300174' lon='16.208282791'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-565987' action='modify' visible='true' lat='59.96139147565' lon='16.20900162302'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Sjövik' />
     <tag k='place' v='isolated_dwelling' />
@@ -10535,8 +10525,7 @@
     <tag k='name' v='Åby' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-566283' visible='true' lat='59.587907279' lon='16.219413759'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-566283' action='modify' visible='true' lat='59.58799417659' lon='16.21647405792'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Lyckhem' />
     <tag k='place' v='hamlet' />
@@ -12916,8 +12905,7 @@
     <tag k='name' v='Skillinge' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-567235' visible='true' lat='59.466276496' lon='16.123283536'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-567235' action='modify' visible='true' lat='59.46819510061' lon='16.1214381762'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Bergudden' />
     <tag k='place' v='hamlet' />
@@ -13332,8 +13320,7 @@
     <tag k='name' v='Reutersberg' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-567401' visible='true' lat='59.267050154' lon='15.817694992'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-567401' action='modify' visible='true' lat='59.26650186602' lon='15.8106139602'>
     <tag k='lantmateriet:kkod' v='3' />
     <tag k='name' v='Hästnäs' />
     <tag k='place' v='hamlet' />
@@ -13343,8 +13330,7 @@
     <tag k='name' v='Ålhammar' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-567405' visible='true' lat='59.270373081' lon='15.862030746'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-567405' action='modify' visible='true' lat='59.27129409508' lon='15.85894084121'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Ålhammarsudden' />
     <tag k='place' v='hamlet' />
@@ -14514,8 +14500,7 @@
     <tag k='name' v='Haga' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-567873' visible='true' lat='59.691966783' lon='16.187401137'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-567873' action='modify' visible='true' lat='59.69191805433' lon='16.18614586318'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Nystrand' />
     <tag k='place' v='isolated_dwelling' />
@@ -14545,8 +14530,7 @@
     <tag k='name' v='Värntorp' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-567885' visible='true' lat='59.729527573' lon='16.201000661'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-567885' action='modify' visible='true' lat='59.72922471133' lon='16.20186969672'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Hedvallsbron' />
     <tag k='place' v='isolated_dwelling' />
@@ -15311,8 +15295,7 @@
     <tag k='name' v='Stofallet' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-568191' visible='true' lat='59.740137312' lon='15.81374095'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-568191' action='modify' visible='true' lat='59.74032113262' lon='15.81170247115'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Larsbo' />
     <tag k='place' v='isolated_dwelling' />
@@ -16272,8 +16255,7 @@
     <tag k='name' v='Österäng' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-568575' visible='true' lat='59.961250551' lon='15.922809556'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-568575' action='modify' visible='true' lat='59.96192725237' lon='15.92190833377'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Västmannagården' />
     <tag k='place' v='isolated_dwelling' />
@@ -17123,8 +17105,7 @@
     <tag k='name' v='Bodatorp' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-568915' visible='true' lat='59.549893624' lon='15.73362869'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-568915' action='modify' visible='true' lat='59.55184010105' lon='15.72907966351'>
     <tag k='lantmateriet:kkod' v='16' />
     <tag k='name' v='Västlandaholm' />
     <tag k='place' v='locality' />
@@ -18309,8 +18290,7 @@
     <tag k='name' v='Rosendal' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-569389' visible='true' lat='59.308414956' lon='15.738110251'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-569389' action='modify' visible='true' lat='59.30876542948' lon='15.73637217956'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Vimnäset' />
     <tag k='place' v='isolated_dwelling' />
@@ -18475,8 +18455,7 @@
     <tag k='name' v='Fårbo' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-569455' visible='true' lat='59.937895007' lon='15.554262008'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-569455' action='modify' visible='true' lat='59.93740592515' lon='15.55219134264'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='Skälsjön' />
     <tag k='place' v='isolated_dwelling' />
@@ -19066,8 +19045,7 @@
     <tag k='name' v='L. Björsbo' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-569691' visible='true' lat='59.553435548' lon='15.768495761'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-569691' action='modify' visible='true' lat='59.55396833765' lon='15.77004071339'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='S Våsjö' />
     <tag k='place' v='hamlet' />
@@ -19342,8 +19320,7 @@
     <tag k='name' v='St. Långtallbo' />
     <tag k='place' v='isolated_dwelling' />
   </node>
-  <node id='-569801' visible='true' lat='59.557566362' lon='15.761744962'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-569801' action='modify' visible='true' lat='59.55776205762' lon='15.76253889587'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='N Våsjö' />
     <tag k='place' v='hamlet' />
@@ -20153,8 +20130,7 @@
     <tag k='name' v='N Långviken' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-570125' visible='true' lat='59.632078348' lon='15.908087702'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-570125' action='modify' visible='true' lat='59.63246887168' lon='15.90577027341'>
     <tag k='lantmateriet:kkod' v='2' />
     <tag k='name' v='Solbergahagen' />
     <tag k='place' v='hamlet' />
@@ -20224,8 +20200,7 @@
     <tag k='name' v='S Lunger' />
     <tag k='place' v='hamlet' />
   </node>
-  <node id='-570153' visible='true' lat='59.759473137' lon='15.947813456'>
-    <tag k='import:in_water' v='yes' />
+  <node id='-570153' action='modify' visible='true' lat='59.75867342778' lon='15.94759887928'>
     <tag k='lantmateriet:kkod' v='1' />
     <tag k='name' v='N Hålsbo' />
     <tag k='place' v='isolated_dwelling' />
